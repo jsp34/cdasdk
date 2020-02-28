@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>HL7SDK_NetCore</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HL7SDK.Xml.Cda-NetCore\HL7SDK.Xml.Cda-NetCore.csproj" />
+  </ItemGroup>
+</Project>

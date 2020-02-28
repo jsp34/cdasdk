@@ -3019,7 +3019,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA ActClassSupply enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("d702d9ca-3ffc-47a1-a97d-9951e0a125b5")]
     public enum ActClassSupply
     {
@@ -3038,7 +3038,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA ActClinicalDocument enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("9b8f5867-d3a7-41c2-a911-1b968167940e")]
     public enum ActClinicalDocument
     {
@@ -3057,7 +3057,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA ActRelationshipFulfills enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("93c97e2f-46f6-4f04-abd7-0c62d017c43e")]
     public enum ActRelationshipFulfills
     {
@@ -3086,7 +3086,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA ActRelationshipHasComponent enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("3ebc4e93-83ab-469f-8287-2834bcd8a61e")]
     public enum ActRelationshipHasComponent
     {
@@ -3115,7 +3115,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA BinaryDataEncoding enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("fcb2f041-deb7-41bb-b1a4-226e0dfa0fa8")]
     public enum BinaryDataEncoding
     {
@@ -3134,7 +3134,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA CompressionAlgorithm enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("4fe2019c-c254-42e5-9bc0-f967b66b0d30")]
     public enum CompressionAlgorithm
     {
@@ -3163,7 +3163,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA EntityClassDevice enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("76b4664f-3a1d-4730-b4be-771c21df6d04")]
     public enum EntityClassDevice
     {
@@ -3187,7 +3187,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA EntityClassPlace enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("1dab675b-0d36-4595-a3ca-b7b7e8932647")]
     public enum EntityClassPlace
     {
@@ -3221,7 +3221,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA EntityDeterminerDetermined enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("02cec153-4cd6-4bc5-ba2f-1d6748f75599")]
     public enum EntityDeterminerDetermined
     {
@@ -3240,7 +3240,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA IntegrityCheckAlgorithm enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("c308d518-b14f-4287-b792-a92ab08da25e")]
     public enum IntegrityCheckAlgorithm
     {
@@ -3259,7 +3259,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA ItemsChoiceType enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("d413a726-112b-4708-8662-68c3b9681d44")]
     public enum ItemsChoiceType
     {
@@ -3288,7 +3288,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA ItemsChoiceType1 enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("da2db495-79ef-4085-b092-bbfe1b746f22")]
     public enum ItemsChoiceType1
     {
@@ -3317,7 +3317,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA ItemsChoiceType2 enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("83203f9d-e963-4066-8d09-2c6732aed219")]
     public enum ItemsChoiceType2
     {
@@ -3346,7 +3346,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA ItemsChoiceType3 enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("c9a20532-aaff-428b-8e66-9153dd7e7e90")]
     public enum ItemsChoiceType3
     {
@@ -3375,7 +3375,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA ItemsChoiceType4 enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("235dffd1-6af5-4bf3-9e38-83fa909911fb")]
     public enum ItemsChoiceType4
     {
@@ -3404,7 +3404,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA ItemsChoiceType5 enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("d60efa01-53f7-4347-91dd-b155bb4fe7b2")]
     public enum ItemsChoiceType5
     {
@@ -3433,7 +3433,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA ItemsChoiceType6 enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("eb1e592c-2421-4769-91dd-c6d2449eb48d")]
     public enum ItemsChoiceType6
     {
@@ -3462,7 +3462,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA ParticipationPhysicalPerformer enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("719bd84f-a8ce-4227-815c-af3b956063cd")]
     public enum ParticipationPhysicalPerformer
     {
@@ -3491,7 +3491,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA ParticipationTargetLocation enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("004d050b-b80b-4657-9a99-6fe037509b02")]
     public enum ParticipationTargetLocation
     {
@@ -3530,7 +3530,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA ParticipationTargetSubject enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("4cbcf51b-ea96-466b-9a3d-990798e81998")]
     public enum ParticipationTargetSubject
     {
@@ -3549,7 +3549,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA ProbabilityDistributionType enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("c73e3ec1-b59c-49d1-846a-7a5a603a0a74")]
     public enum ProbabilityDistributionType
     {
@@ -3603,7 +3603,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA RoleClassManufacturedProduct enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("4d53e490-4e24-45ed-a72c-94fd58bf9d8c")]
     public enum RoleClassManufacturedProduct
     {
@@ -3622,7 +3622,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA RoleClassServiceDeliveryLocation enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("9578e7b0-8e12-43ae-9c79-cd2159d56acb")]
     public enum RoleClassServiceDeliveryLocation
     {
@@ -3646,7 +3646,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA RoleClassSpecimen enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("451328f4-ade8-4d43-8bdf-8959a33ec5e2")]
     public enum RoleClassSpecimen
     {
@@ -3670,7 +3670,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA SetOperator enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("e01ca0a2-220c-4ea7-9e75-f1a6a5f902f1")]
     public enum SetOperator
     {
@@ -3704,7 +3704,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocColAlign enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("d99b2392-8a13-43f3-a594-e40ef31d6f64")]
     public enum StrucDocColAlign
     {
@@ -3738,7 +3738,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocColgroupAlign enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("b0cc5abe-7fbc-4264-b79a-e45a04af39b4")]
     public enum StrucDocColgroupAlign
     {
@@ -3772,7 +3772,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocColgroupValign enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("3e79acfc-5844-468e-ab6a-fe7037f493c6")]
     public enum StrucDocColgroupValign
     {
@@ -3801,7 +3801,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocColValign enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("51941873-6a46-477b-9278-8002c2fc0247")]
     public enum StrucDocColValign
     {
@@ -3830,7 +3830,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocContentRevised enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("ecdb810f-9737-4d23-9749-88199f958978")]
     public enum StrucDocContentRevised
     {
@@ -3849,7 +3849,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocListListType enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("a49332b1-302e-4a0b-a260-4cb60ec221b2")]
     public enum StrucDocListListType
     {
@@ -3868,7 +3868,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocTableFrame enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("c98db550-c9b8-4d4a-85a4-fa56312035c7")]
     public enum StrucDocTableFrame
     {
@@ -3922,7 +3922,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocTableRules enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("58aa4733-c695-4d7a-99fb-f467b354a8ff")]
     public enum StrucDocTableRules
     {
@@ -3956,7 +3956,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocTbodyAlign enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("5a08c9d6-08b0-4577-b41d-b21f09b5379c")]
     public enum StrucDocTbodyAlign
     {
@@ -3990,7 +3990,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocTbodyValign enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("cde5cf21-c4d0-486a-af31-95c07717a84b")]
     public enum StrucDocTbodyValign
     {
@@ -4019,7 +4019,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocTdAlign enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("cec1848e-f1c6-40ed-9a42-56ee49d771c9")]
     public enum StrucDocTdAlign
     {
@@ -4053,7 +4053,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocTdScope enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("104bb805-3f77-4f59-85a1-0e6a3ad62172")]
     public enum StrucDocTdScope
     {
@@ -4082,7 +4082,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocTdValign enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("ddaaf0e0-7a12-4bb2-82ec-c32246e33d3d")]
     public enum StrucDocTdValign
     {
@@ -4111,7 +4111,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocTfootAlign enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("3b0d63ed-4637-491a-a93b-fc3e394872dd")]
     public enum StrucDocTfootAlign
     {
@@ -4145,7 +4145,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocTfootValign enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("d4e6fd23-c23b-4ab7-a387-5605a78fc8af")]
     public enum StrucDocTfootValign
     {
@@ -4174,7 +4174,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocThAlign enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("00ce4281-f1f4-47c9-9150-dbfae4106d36")]
     public enum StrucDocThAlign
     {
@@ -4208,7 +4208,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocTheadAlign enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("85584b62-a5e8-4c11-89e1-b69e28c15476")]
     public enum StrucDocTheadAlign
     {
@@ -4242,7 +4242,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocTheadValign enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("1650686a-a411-4242-8ac2-7755a23adf46")]
     public enum StrucDocTheadValign
     {
@@ -4271,7 +4271,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocThScope enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("3ea6d956-77eb-454f-9ca3-bd9a7ffab046")]
     public enum StrucDocThScope
     {
@@ -4300,7 +4300,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocThValign enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("eaba08d0-4b07-4744-a17e-31f93f3abca3")]
     public enum StrucDocThValign
     {
@@ -4329,7 +4329,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocTrAlign enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("bd9e9255-41db-4b13-8cdf-9f0c96016b28")]
     public enum StrucDocTrAlign
     {
@@ -4363,7 +4363,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA StrucDocTrValign enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("3226d72c-0186-418d-be44-7420655a67ef")]
     public enum StrucDocTrValign
     {
@@ -4392,7 +4392,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA x_ActClassDocumentEntryAct enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("0f7e043f-9f5e-4d67-b2c3-b309363acd97")]
     public enum x_ActClassDocumentEntryAct
     {
@@ -4446,7 +4446,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA x_ActClassDocumentEntryOrganizer enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("8092ef3f-5411-4806-9e4f-c9841b0a29b6")]
     public enum x_ActClassDocumentEntryOrganizer
     {
@@ -4465,7 +4465,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA x_ActMoodDocumentObservation enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("699ac5cc-9a26-42f8-85ef-d4657986cf06")]
     public enum x_ActMoodDocumentObservation
     {
@@ -4509,7 +4509,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA x_ActRelationshipDocument enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("61ffe81d-6ea5-4e57-bc3f-ef04c63e104c")]
     public enum x_ActRelationshipDocument
     {
@@ -4533,7 +4533,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA x_ActRelationshipEntry enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("6b85cca2-5943-4b4e-ad44-4e706b964261")]
     public enum x_ActRelationshipEntry
     {
@@ -4552,7 +4552,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA x_ActRelationshipEntryRelationship enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("2cd887b3-3735-4a43-a656-7bd8f14a1a7f")]
     public enum x_ActRelationshipEntryRelationship
     {
@@ -4611,7 +4611,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA x_ActRelationshipExternalReference enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("c560d250-2fad-42ca-a518-3f76dd2d6e81")]
     public enum x_ActRelationshipExternalReference
     {
@@ -4650,7 +4650,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA x_DocumentActMood enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("87f644e3-a405-44fe-8146-edefc385a059")]
     public enum x_DocumentActMood
     {
@@ -4699,7 +4699,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA x_DocumentEncounterMood enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("7831fd35-97de-4c73-9bab-b8667b364665")]
     public enum x_DocumentEncounterMood
     {
@@ -4743,7 +4743,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA x_DocumentProcedureMood enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("7065c03c-c08b-4696-9400-9045450340f4")]
     public enum x_DocumentProcedureMood
     {
@@ -4792,7 +4792,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA x_DocumentSubject enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("289ffb17-1635-4687-860b-a4968789aba1")]
     public enum x_DocumentSubject
     {
@@ -4811,7 +4811,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA x_DocumentSubstanceMood enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("bf64393f-a326-4f37-a24a-d570241c29d8")]
     public enum x_DocumentSubstanceMood
     {
@@ -4845,7 +4845,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA x_EncounterParticipant enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("525b24dd-5128-4e9c-97b7-7e40cb8bb8ea")]
     public enum x_EncounterParticipant
     {
@@ -4879,7 +4879,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA x_InformationRecipient enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("2861ffda-b674-424a-81ff-d2998a257c11")]
     public enum x_InformationRecipient
     {
@@ -4898,7 +4898,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA x_InformationRecipientRole enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("f062a457-ccbd-449c-bc49-14e1b3052565")]
     public enum x_InformationRecipientRole
     {
@@ -4917,7 +4917,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// CDA x_ServiceEventPerformer enumeration.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("5331f393-fa36-4295-b7bc-ad461bf6ce21")]
     public enum x_ServiceEventPerformer
     {
@@ -4941,7 +4941,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IADCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("f8ed63d7-e042-4453-b6b2-1870d7b3bca5")]
 
     public partial interface IAD : IHL73Object, ICDAObject, IANY
@@ -5049,7 +5049,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The AD class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IAD))]
     [Guid("59f8c0ed-22dd-4420-b595-7a9c7047de72")]
@@ -5198,7 +5198,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IADCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("9bdb0058-e018-4ef9-a1fc-6d6bb0671ebc")]
     public partial interface IADCollection : ICDACollection, IEnumerable<IAD>
@@ -5271,7 +5271,7 @@ namespace HL7SDK.Cda
         IAD Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("0dd72a61-0368-40b0-b65d-d263280af3b3")]
     internal partial class ADCollection : CDAFactoryCollection<HL7SDK.Cda.AD, HL7SDK.Xml.Cda.AD, HL7SDK.Cda.IAD>, HL7SDK.Cda.IADCollection
     {
@@ -5290,7 +5290,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IADXPCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("d37877b4-1171-4d14-be86-5ad723aa5d45")]
 
     public partial interface IADXP : IHL73Object, ICDAObject, IST
@@ -5436,7 +5436,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ADXP class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IADXP))]
     [Guid("5887be41-98e5-42f8-979e-cf79479eefde")]
@@ -5516,7 +5516,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IADXPCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("868de46e-3d48-4d1d-8f4f-3b602c9e3ed1")]
     public partial interface IADXPCollection : ICDACollection, IEnumerable<IADXP>
@@ -5589,7 +5589,7 @@ namespace HL7SDK.Cda
         IADXP Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("f128250d-43a6-43dc-ae8e-be4668fe2373")]
     internal partial class ADXPCollection : CDAFactoryCollection<HL7SDK.Cda.ADXP, HL7SDK.Xml.Cda.ADXP, HL7SDK.Cda.IADXP>, HL7SDK.Cda.IADXPCollection
     {
@@ -5608,7 +5608,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpadditionalLocatorCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("f4b9335a-3e2f-452a-bfd9-69bae57a921f")]
 
     public partial interface IadxpadditionalLocator : IHL73Object, ICDAObject, IADXP
@@ -5754,7 +5754,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpadditionalLocator class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxpadditionalLocator))]
     [Guid("bb7019f4-a9fe-4e83-958d-79d44c75d672")]
@@ -5819,7 +5819,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpbuildingNumberSuffixCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("d7ef17cd-3560-41ef-a8eb-50f0ada09d0b")]
 
     public partial interface IadxpbuildingNumberSuffix : IHL73Object, ICDAObject, IADXP
@@ -5965,7 +5965,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpbuildingNumberSuffix class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxpbuildingNumberSuffix))]
     [Guid("6eb135bc-5ac9-491b-8b81-66dfab9aa989")]
@@ -6030,7 +6030,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpcareOfCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("ee2a3bdf-ddb8-4f50-a0ab-0715c2e80bc9")]
 
     public partial interface IadxpcareOf : IHL73Object, ICDAObject, IADXP
@@ -6176,7 +6176,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpcareOf class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxpcareOf))]
     [Guid("91d7d772-4e7c-4e40-893a-6a764c207b2d")]
@@ -6241,7 +6241,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpcensusTractCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("6829e294-30c5-4c57-a1bf-e1b4bea22e9e")]
 
     public partial interface IadxpcensusTract : IHL73Object, ICDAObject, IADXP
@@ -6387,7 +6387,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpcensusTract class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxpcensusTract))]
     [Guid("35988b51-b68c-4c47-bbae-a4e8ff1812f4")]
@@ -6452,7 +6452,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpcityCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("b7130c34-6e23-4788-9b41-133392d7cb4c")]
 
     public partial interface Iadxpcity : IHL73Object, ICDAObject, IADXP
@@ -6598,7 +6598,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpcity class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.Iadxpcity))]
     [Guid("1910aa08-9bdd-4075-8350-38ea7658fc73")]
@@ -6663,7 +6663,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpcountryCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("7b05b31c-2311-4cab-aeb7-171a2e3b9096")]
 
     public partial interface Iadxpcountry : IHL73Object, ICDAObject, IADXP
@@ -6809,7 +6809,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpcountry class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.Iadxpcountry))]
     [Guid("b629bf52-f878-4eaa-88cd-1753d1fb9d0d")]
@@ -6874,7 +6874,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpcountyCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("e4b3edaa-029e-40ae-8737-4f063322c790")]
 
     public partial interface Iadxpcounty : IHL73Object, ICDAObject, IADXP
@@ -7020,7 +7020,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpcounty class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.Iadxpcounty))]
     [Guid("6ede7733-5b9f-45f1-a56f-c65b27378f88")]
@@ -7085,7 +7085,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpdelimiterCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("16109361-7dee-4b8d-9fbc-dd654e64b6c8")]
 
     public partial interface Iadxpdelimiter : IHL73Object, ICDAObject, IADXP
@@ -7231,7 +7231,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpdelimiter class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.Iadxpdelimiter))]
     [Guid("490ce79f-41f7-48de-b2d7-0627cdceb99b")]
@@ -7296,7 +7296,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpdeliveryAddressLineCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("37f2b975-f357-46e5-9c27-27fc58e8448f")]
 
     public partial interface IadxpdeliveryAddressLine : IHL73Object, ICDAObject, IADXP
@@ -7442,7 +7442,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpdeliveryAddressLine class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxpdeliveryAddressLine))]
     [Guid("fc6b48a9-af58-4f7f-a519-4069fa1510e1")]
@@ -7507,7 +7507,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpdeliveryInstallationAreaCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("ced9de7c-e325-4b5b-b7e9-3b0f98db4566")]
 
     public partial interface IadxpdeliveryInstallationArea : IHL73Object, ICDAObject, IADXP
@@ -7653,7 +7653,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpdeliveryInstallationArea class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxpdeliveryInstallationArea))]
     [Guid("739d6584-2217-4bd4-a4f7-cd3e871d2e1b")]
@@ -7718,7 +7718,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpdeliveryInstallationQualifierCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("16600b69-e5ee-4d96-8629-36c0c8b2f10b")]
 
     public partial interface IadxpdeliveryInstallationQualifier : IHL73Object, ICDAObject, IADXP
@@ -7864,7 +7864,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpdeliveryInstallationQualifier class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxpdeliveryInstallationQualifier))]
     [Guid("e1fd7987-c4e8-4e96-b2db-01b483ec77c2")]
@@ -7929,7 +7929,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpdeliveryInstallationTypeCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("e5c36565-2250-4163-b608-46a6c3166606")]
 
     public partial interface IadxpdeliveryInstallationType : IHL73Object, ICDAObject, IADXP
@@ -8075,7 +8075,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpdeliveryInstallationType class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxpdeliveryInstallationType))]
     [Guid("443486c5-d6a1-4b10-bbdc-f5f135c0ad5d")]
@@ -8140,7 +8140,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpdeliveryModeCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("a5f3d82f-6dc1-427d-bcce-52102a7390e7")]
 
     public partial interface IadxpdeliveryMode : IHL73Object, ICDAObject, IADXP
@@ -8286,7 +8286,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpdeliveryMode class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxpdeliveryMode))]
     [Guid("f2eb1b6f-2fde-4275-882b-12e25f8fba48")]
@@ -8351,7 +8351,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpdeliveryModeIdentifierCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("5446711e-8f55-47e7-aec8-3b89847e9226")]
 
     public partial interface IadxpdeliveryModeIdentifier : IHL73Object, ICDAObject, IADXP
@@ -8497,7 +8497,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpdeliveryModeIdentifier class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxpdeliveryModeIdentifier))]
     [Guid("16b6638a-3095-4c54-8d88-aab3b148039b")]
@@ -8562,7 +8562,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpdirectionCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("a6724281-7710-4f07-9010-a5fdd8c7b597")]
 
     public partial interface Iadxpdirection : IHL73Object, ICDAObject, IADXP
@@ -8708,7 +8708,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpdirection class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.Iadxpdirection))]
     [Guid("2e00372a-3298-417a-81a7-97df31fe4a50")]
@@ -8773,7 +8773,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxphouseNumberCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("40dc6f23-1aa7-47cf-ac09-19eb585bddc1")]
 
     public partial interface IadxphouseNumber : IHL73Object, ICDAObject, IADXP
@@ -8919,7 +8919,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxphouseNumber class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxphouseNumber))]
     [Guid("cc4a6a55-c496-4a80-94a2-8376550396f1")]
@@ -8984,7 +8984,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxphouseNumberNumericCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("c665485f-d644-4a8e-ab7c-a126c1b349e7")]
 
     public partial interface IadxphouseNumberNumeric : IHL73Object, ICDAObject, IADXP
@@ -9130,7 +9130,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxphouseNumberNumeric class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxphouseNumberNumeric))]
     [Guid("c043c34d-5e91-4626-9ac8-dea0703f6247")]
@@ -9195,7 +9195,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxppostalCodeCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("a658e80b-8fc5-4f03-b97b-0bb0aaf656ef")]
 
     public partial interface IadxppostalCode : IHL73Object, ICDAObject, IADXP
@@ -9341,7 +9341,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxppostalCode class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxppostalCode))]
     [Guid("456b8b86-c09f-49e9-b11f-21e08a349918")]
@@ -9406,7 +9406,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxppostBoxCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("433f0f5f-81d8-43d5-bc1e-4bf7caba2371")]
 
     public partial interface IadxppostBox : IHL73Object, ICDAObject, IADXP
@@ -9552,7 +9552,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxppostBox class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxppostBox))]
     [Guid("9d3d8fdc-2f14-4cae-a2dd-71e717188bea")]
@@ -9617,7 +9617,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpprecinctCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("c5e67bd9-f949-4b50-ac89-d0efb0249234")]
 
     public partial interface Iadxpprecinct : IHL73Object, ICDAObject, IADXP
@@ -9763,7 +9763,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpprecinct class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.Iadxpprecinct))]
     [Guid("b3e207ec-8374-410b-9c32-230b9d576a1c")]
@@ -9828,7 +9828,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpstateCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("e35444a6-a79c-41b0-8b6f-c2daff9ce025")]
 
     public partial interface Iadxpstate : IHL73Object, ICDAObject, IADXP
@@ -9974,7 +9974,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpstate class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.Iadxpstate))]
     [Guid("8fb8605e-374f-4861-8020-6b3c0bd1fe68")]
@@ -10039,7 +10039,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpstreetAddressLineCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("89b92634-eb09-403f-8131-cfd5e5b10772")]
 
     public partial interface IadxpstreetAddressLine : IHL73Object, ICDAObject, IADXP
@@ -10185,7 +10185,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpstreetAddressLine class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxpstreetAddressLine))]
     [Guid("ca923cdc-3166-40b1-8026-8c6089906e90")]
@@ -10250,7 +10250,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpstreetNameCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("79e94959-1743-42e4-aabd-9d664cba7269")]
 
     public partial interface IadxpstreetName : IHL73Object, ICDAObject, IADXP
@@ -10396,7 +10396,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpstreetName class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxpstreetName))]
     [Guid("c04ec405-3942-4310-8649-b61740206c25")]
@@ -10461,7 +10461,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpstreetNameBaseCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("bf05ccea-1db6-4ced-8e49-52763da37cff")]
 
     public partial interface IadxpstreetNameBase : IHL73Object, ICDAObject, IADXP
@@ -10607,7 +10607,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpstreetNameBase class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxpstreetNameBase))]
     [Guid("ff971170-2daf-42e5-8072-b71e9a84001e")]
@@ -10672,7 +10672,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpstreetNameTypeCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("03699bb0-2e2c-4cee-aca4-893c86fbd183")]
 
     public partial interface IadxpstreetNameType : IHL73Object, ICDAObject, IADXP
@@ -10818,7 +10818,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpstreetNameType class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxpstreetNameType))]
     [Guid("a828b63e-8731-4a41-8173-c152bdb8acba")]
@@ -10883,7 +10883,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpunitIDCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("8a7dc5dd-6075-4a2f-b0ea-e6446486a151")]
 
     public partial interface IadxpunitID : IHL73Object, ICDAObject, IADXP
@@ -11029,7 +11029,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpunitID class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxpunitID))]
     [Guid("869b5392-9980-46ed-a683-d02676eb973e")]
@@ -11094,7 +11094,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IadxpunitTypeCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("2b82a3c6-06d2-4a64-bba3-3cce2bdf2fb4")]
 
     public partial interface IadxpunitType : IHL73Object, ICDAObject, IADXP
@@ -11240,7 +11240,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The adxpunitType class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IadxpunitType))]
     [Guid("870bf5e3-c0c9-452b-800b-40a677153a7c")]
@@ -11305,7 +11305,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IANYCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("ff6b0561-d4e7-4a25-821e-507dfc1cbf3b")]
 
     public partial interface IANY : IHL73Object, ICDAObject, IDataTypeElement
@@ -11361,7 +11361,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ANY class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IANY))]
     [Guid("10ff1572-f053-4b16-b768-80ce73d27f9d")]
@@ -11426,7 +11426,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IANYCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("7c7b8ce5-ba1a-47b5-98d4-ee9bd80d29f6")]
     public partial interface IANYCollection : ICDACollection, IEnumerable<IANY>
@@ -11493,7 +11493,7 @@ namespace HL7SDK.Cda
         new IEnumerator GetEnumerator();
     }
     
-    [ComVisible(true)]
+
     [Guid("c25c8017-430c-45cd-8964-48c3c0c1986c")]
     internal partial class ANYCollection : CDACollection<HL7SDK.Cda.ANY, HL7SDK.Xml.Cda.ANY, HL7SDK.Cda.IANY>, HL7SDK.Cda.IANYCollection
     {
@@ -11512,7 +11512,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IANYNonNullCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("9aac590a-dbd4-47df-b93b-dcad1e95ed9e")]
 
     public partial interface IANYNonNull : IHL73Object, ICDAObject, IANY
@@ -11568,7 +11568,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ANYNonNull class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IANYNonNull))]
     [Guid("47e1f436-b5c8-4abf-8536-62f5b9f7766a")]
@@ -11633,7 +11633,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IBINCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("f42d28f1-2c16-4687-bc21-c7a07469edb2")]
 
     public partial interface IBIN : IHL73Object, ICDAObject, IANY
@@ -11707,7 +11707,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The BIN class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IBIN))]
     [Guid("e4e50447-2e1b-4dd4-8a9d-4306679029ec")]
@@ -11788,7 +11788,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IBLCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("209b37cc-1f8f-4622-8a98-3e6d4a8f9643")]
 
     public partial interface IBL : IHL73Object, ICDAObject, IANY
@@ -11862,7 +11862,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The BL class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IBL))]
     [Guid("886ca420-2fb0-4af3-9aa5-79d6f612b0c0")]
@@ -11957,7 +11957,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IBNCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("005c30ab-7cf8-44cd-be71-f16ab188f7f1")]
 
     public partial interface IBN : IHL73Object, ICDAObject, IANYNonNull
@@ -12031,7 +12031,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The BN class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IBN))]
     [Guid("ac7edefd-086e-42d9-8605-2bb51c0aadbd")]
@@ -12126,7 +12126,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IBXIT_CDCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("b9e75969-2453-4407-8adf-e251ed08db83")]
 
     public partial interface IBXIT_CD : IHL73Object, ICDAObject, ICD
@@ -12252,7 +12252,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The BXIT_CD class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IBXIT_CD))]
     [Guid("01585001-bbc9-458f-a6cd-acb10687526b")]
@@ -12317,7 +12317,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IBXIT_IVL_PQCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("ee210e43-c7bc-43f0-a49e-4270c424181f")]
 
     public partial interface IBXIT_IVL_PQ : IHL73Object, ICDAObject, IIVL_PQ
@@ -12407,7 +12407,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The BXIT_IVL_PQ class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IBXIT_IVL_PQ))]
     [Guid("d3f760f7-8ea8-43f0-b895-dadb3b9e5e41")]
@@ -12472,7 +12472,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ICDCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("02e8f2b6-9c2d-4576-8d42-76147879b21b")]
 
     public partial interface ICD : IHL73Object, ICDAObject, IANY
@@ -12598,7 +12598,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The CD class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ICD))]
     [Guid("6a4d21f4-f5d5-4c4f-8661-1a26346f9d78")]
@@ -12800,7 +12800,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ICDCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("887932bf-6403-417b-b949-4bc9973f5e40")]
     public partial interface ICDCollection : ICDACollection, IEnumerable<ICD>
@@ -12873,7 +12873,7 @@ namespace HL7SDK.Cda
         ICD Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("74be34f5-feb9-440c-973a-90d5e718bb02")]
     internal partial class CDCollection : CDAFactoryCollection<HL7SDK.Cda.CD, HL7SDK.Xml.Cda.CD, HL7SDK.Cda.ICD>, HL7SDK.Cda.ICDCollection
     {
@@ -12892,7 +12892,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ICECollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("d1046221-eb1e-4a04-8588-0961c3c7e945")]
 
     public partial interface ICE : IHL73Object, ICDAObject, ICD
@@ -13018,7 +13018,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The CE class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ICE))]
     [Guid("acbca79c-4a1f-4d19-90f8-8521f9906c4c")]
@@ -13083,7 +13083,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ICECollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("f23d9311-4171-49fa-bfdf-3ef2f0b95814")]
     public partial interface ICECollection : ICDACollection, IEnumerable<ICE>
@@ -13156,7 +13156,7 @@ namespace HL7SDK.Cda
         ICE Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("c65a8afc-4b67-4c8e-87a5-0a4c62b29642")]
     internal partial class CECollection : CDAFactoryCollection<HL7SDK.Cda.CE, HL7SDK.Xml.Cda.CE, HL7SDK.Cda.ICE>, HL7SDK.Cda.ICECollection
     {
@@ -13175,7 +13175,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ICOCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("27e9e80b-9a32-4cbc-8882-b73555211ec8")]
 
     public partial interface ICO : IHL73Object, ICDAObject, ICV
@@ -13301,7 +13301,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The CO class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ICO))]
     [Guid("87be5869-fe11-459e-9bbe-7ddbf043354d")]
@@ -13366,7 +13366,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ICRCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("81103be9-b99b-4bba-b73c-30886cde68ba")]
 
     public partial interface ICR : IHL73Object, ICDAObject, IANY
@@ -13449,7 +13449,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The CR class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ICR))]
     [Guid("34c6bd19-53bd-4903-a33a-92e08c1702b0")]
@@ -13609,7 +13609,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ICRCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("dffa695d-9db7-46e5-9d42-a1b26c2fc4cb")]
     public partial interface ICRCollection : ICDACollection, IEnumerable<ICR>
@@ -13682,7 +13682,7 @@ namespace HL7SDK.Cda
         ICR Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("b9827d56-b5d5-4359-8efd-8848ba9e5a46")]
     internal partial class CRCollection : CDAFactoryCollection<HL7SDK.Cda.CR, HL7SDK.Xml.Cda.CR, HL7SDK.Cda.ICR>, HL7SDK.Cda.ICRCollection
     {
@@ -13701,7 +13701,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ICSCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("3bb972db-6baf-43bd-95eb-64e39f49b12d")]
 
     public partial interface ICS : IHL73Object, ICDAObject, ICV
@@ -13827,7 +13827,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The CS class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ICS))]
     [Guid("242db1cc-2fc6-47b1-9439-dd6a13e7f568")]
@@ -13892,7 +13892,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ICSCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("405ed76a-bdcb-482b-b47b-43c55c14e877")]
     public partial interface ICSCollection : ICDACollection, IEnumerable<ICS>
@@ -13965,7 +13965,7 @@ namespace HL7SDK.Cda
         ICS Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("9872a6b9-5d5e-4a4a-bb0a-0ec1da0c7498")]
     internal partial class CSCollection : CDAFactoryCollection<HL7SDK.Cda.CS, HL7SDK.Xml.Cda.CS, HL7SDK.Cda.ICS>, HL7SDK.Cda.ICSCollection
     {
@@ -13984,7 +13984,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ICVCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("1f9140bb-1ca3-465f-b513-facca77c8c5f")]
 
     public partial interface ICV : IHL73Object, ICDAObject, ICE
@@ -14110,7 +14110,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The CV class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ICV))]
     [Guid("ba3712e7-1acf-44d4-891c-623412fad8f2")]
@@ -14175,7 +14175,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IEDCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("ed6fdbff-0948-4680-827a-ae2976506156")]
 
     public partial interface IED : IHL73Object, ICDAObject, IBIN
@@ -14312,7 +14312,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ED class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IED))]
     [Guid("239fef91-e33d-4202-aa6c-1336417060d8")]
@@ -14533,7 +14533,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IEIVL_PPD_TSCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("77750fb9-5679-4aec-b420-9de27a25ea99")]
 
     public partial interface IEIVL_PPD_TS : IHL73Object, ICDAObject, ISXCM_PPD_TS
@@ -14652,7 +14652,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The EIVL_PPD_TS class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IEIVL_PPD_TS))]
     [Guid("d1384a5c-a920-471f-956b-cea55f318f20")]
@@ -14797,7 +14797,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IEIVL_TSCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("2eced17a-bc80-41bc-b8d3-8573aa9981a7")]
 
     public partial interface IEIVL_TS : IHL73Object, ICDAObject, ISXCM_TS
@@ -14889,7 +14889,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The EIVL_TS class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IEIVL_TS))]
     [Guid("ed0347d8-cb29-4321-a1b0-d3dd031eddee")]
@@ -15034,7 +15034,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IEIVLeventCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("d553e4b3-49ab-4631-98b1-84a7385bb334")]
 
     public partial interface IEIVLevent : IHL73Object, ICDAObject, ICE
@@ -15160,7 +15160,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The EIVLevent class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IEIVLevent))]
     [Guid("64a8465a-7fe4-4a97-b558-5d66c3bc7c2a")]
@@ -15225,7 +15225,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IENCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("e85dd8be-619d-49df-bf83-7abe64aa3828")]
 
     public partial interface IEN : IHL73Object, ICDAObject, IANY
@@ -15316,7 +15316,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The EN class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IEN))]
     [Guid("99471099-226a-4363-84af-3839cd346528")]
@@ -15464,7 +15464,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IendelimiterCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("b02ec59f-2740-4d51-9f24-992e947eefa0")]
 
     public partial interface Iendelimiter : IHL73Object, ICDAObject, IENXP
@@ -15619,7 +15619,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The endelimiter class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.Iendelimiter))]
     [Guid("c256d346-a630-46d8-93f3-410677928ac9")]
@@ -15684,7 +15684,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IenfamilyCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("34b06435-cd14-4190-97b2-86a5098b22f5")]
 
     public partial interface Ienfamily : IHL73Object, ICDAObject, IENXP
@@ -15839,7 +15839,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The enfamily class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.Ienfamily))]
     [Guid("35dac098-d7aa-4bbd-be5d-f36e51721eec")]
@@ -15904,7 +15904,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IengivenCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("4b44a9cd-a8d9-4456-abc4-fb8ffa9fcb65")]
 
     public partial interface Iengiven : IHL73Object, ICDAObject, IENXP
@@ -16059,7 +16059,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The engiven class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.Iengiven))]
     [Guid("39655456-1022-4255-aa32-8b6a1d92c672")]
@@ -16124,7 +16124,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IenprefixCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("ebe6c1b7-9da8-4a9b-b723-aca2493dc662")]
 
     public partial interface Ienprefix : IHL73Object, ICDAObject, IENXP
@@ -16279,7 +16279,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The enprefix class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.Ienprefix))]
     [Guid("35bca8f1-e4e9-4d08-a0bb-e831669a45c2")]
@@ -16344,7 +16344,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IensuffixCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("0056c952-060c-40b7-92b0-8144dcba374a")]
 
     public partial interface Iensuffix : IHL73Object, ICDAObject, IENXP
@@ -16499,7 +16499,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ensuffix class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.Iensuffix))]
     [Guid("daf6f677-4110-443f-a743-0e0796c75583")]
@@ -16564,7 +16564,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IENXPCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("dc23286f-d685-4619-ae46-7c81bb65724d")]
 
     public partial interface IENXP : IHL73Object, ICDAObject, IST
@@ -16719,7 +16719,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ENXP class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IENXP))]
     [Guid("f3af0df4-af1b-4735-aa40-af647f3cf31a")]
@@ -16815,7 +16815,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IENXPCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("5a09100b-eebe-4fb4-ae4a-7bac62611c65")]
     public partial interface IENXPCollection : ICDACollection, IEnumerable<IENXP>
@@ -16888,7 +16888,7 @@ namespace HL7SDK.Cda
         IENXP Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("5e3d46b9-7740-4217-a3a0-4e952730188e")]
     internal partial class ENXPCollection : CDAFactoryCollection<HL7SDK.Cda.ENXP, HL7SDK.Xml.Cda.ENXP, HL7SDK.Cda.IENXP>, HL7SDK.Cda.IENXPCollection
     {
@@ -16907,7 +16907,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IGLIST_PQCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("2b2fac73-3eb8-46b7-91fb-c94a9bc3fd30")]
 
     public partial interface IGLIST_PQ : IHL73Object, ICDAObject, IANY
@@ -16981,7 +16981,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The GLIST_PQ class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IGLIST_PQ))]
     [Guid("61c32f3a-feb0-43e9-8b45-38091622d7fe")]
@@ -17126,7 +17126,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IGLIST_TSCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("e3b7cfa3-cef5-4858-b4ab-decf4f7b3666")]
 
     public partial interface IGLIST_TS : IHL73Object, ICDAObject, IANY
@@ -17200,7 +17200,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The GLIST_TS class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IGLIST_TS))]
     [Guid("ff01fb4d-474a-4b61-9d0c-d020bfaacdcd")]
@@ -17345,7 +17345,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IHXIT_CECollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("e2abe422-76f4-494f-8aeb-f5f90d39807e")]
 
     public partial interface IHXIT_CE : IHL73Object, ICDAObject, ICE
@@ -17480,7 +17480,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The HXIT_CE class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IHXIT_CE))]
     [Guid("bf717091-d5bb-48e2-8a63-6cdf0193a07b")]
@@ -17585,7 +17585,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IHXIT_PQCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("534d371e-28d6-464c-ba00-388331544f20")]
 
     public partial interface IHXIT_PQ : IHL73Object, ICDAObject, IPQ
@@ -17667,7 +17667,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The HXIT_PQ class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IHXIT_PQ))]
     [Guid("2c8006a6-8eb5-4033-af7c-b8ea552385a2")]
@@ -17772,7 +17772,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IIICollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("e85b7676-cf2d-4465-9267-365a9325fb8b")]
 
     public partial interface III : IHL73Object, ICDAObject, IANY
@@ -17873,7 +17873,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The II class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.III))]
     [Guid("dc8435ea-6b1a-4ee6-8a08-354b503d3b5f")]
@@ -18013,7 +18013,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IIICollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("0a237d75-fb1d-4f35-ab35-a4d3aa48499e")]
     public partial interface IIICollection : ICDACollection, IEnumerable<III>
@@ -18086,7 +18086,7 @@ namespace HL7SDK.Cda
         III Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("9a157ccc-2fb7-40d3-9e35-133c5ca88061")]
     internal partial class IICollection : CDAFactoryCollection<HL7SDK.Cda.II, HL7SDK.Xml.Cda.II, HL7SDK.Cda.III>, HL7SDK.Cda.IIICollection
     {
@@ -18105,7 +18105,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IINTCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("0dccaed5-9056-4a16-b52f-8080e12e9485")]
 
     public partial interface IINT : IHL73Object, ICDAObject, IQTY
@@ -18161,7 +18161,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The INT class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IINT))]
     [Guid("c03b3ac8-5f7a-42ec-9282-d5dcac36e1e2")]
@@ -18226,7 +18226,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IINTCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("a8e8e253-484c-43d4-ab1e-dc673cae260b")]
     public partial interface IINTCollection : ICDACollection, IEnumerable<IINT>
@@ -18299,7 +18299,7 @@ namespace HL7SDK.Cda
         IINT Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("3ea1ec33-0b0d-4945-82e7-cacbb71f6a26")]
     internal partial class INTCollection : CDAFactoryCollection<HL7SDK.Cda.INT, HL7SDK.Xml.Cda.INT, HL7SDK.Cda.IINT>, HL7SDK.Cda.IINTCollection
     {
@@ -18318,7 +18318,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IIVL_INTCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("bc8df292-cfbb-4d11-ba8a-d181dc78c91a")]
 
     public partial interface IIVL_INT : IHL73Object, ICDAObject, ISXCM_INT
@@ -18391,7 +18391,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IVL_INT class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IIVL_INT))]
     [Guid("96013b40-e8fd-421f-a97d-f717c99c75d9")]
@@ -18467,7 +18467,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IIVL_MOCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("9420bdee-600c-4f06-ad48-de7d6d5ce552")]
 
     public partial interface IIVL_MO : IHL73Object, ICDAObject, ISXCM_MO
@@ -18549,7 +18549,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IVL_MO class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IIVL_MO))]
     [Guid("40b2aabf-e967-4973-a931-c6e5dcfa116f")]
@@ -18625,7 +18625,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IIVL_PPD_PQCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("fdaea434-9257-47c5-ad24-402d2236d82c")]
 
     public partial interface IIVL_PPD_PQ : IHL73Object, ICDAObject, ISXCM_PPD_PQ
@@ -18742,7 +18742,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IVL_PPD_PQ class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IIVL_PPD_PQ))]
     [Guid("b0dd4b04-eae7-483a-8c53-dbc2ec15534b")]
@@ -18818,7 +18818,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IIVL_PPD_TSCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("f82472cb-6a5e-4963-9ad5-28766777abf1")]
 
     public partial interface IIVL_PPD_TS : IHL73Object, ICDAObject, ISXCM_PPD_TS
@@ -18927,7 +18927,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IVL_PPD_TS class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IIVL_PPD_TS))]
     [Guid("9a2da3e2-66bb-4a65-b88e-ad5b2ae345ce")]
@@ -19003,7 +19003,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IIVL_PQCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("bfa9d2b7-6d67-43ac-8162-ed1f29d959b8")]
 
     public partial interface IIVL_PQ : IHL73Object, ICDAObject, ISXCM_PQ
@@ -19093,7 +19093,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IVL_PQ class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IIVL_PQ))]
     [Guid("9651f965-a8e1-417c-a2c2-71a0a3238f86")]
@@ -19169,7 +19169,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IIVL_REALCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("bf300e5b-73af-486b-a587-9bf13ecccf0b")]
 
     public partial interface IIVL_REAL : IHL73Object, ICDAObject, ISXCM_REAL
@@ -19242,7 +19242,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IVL_REAL class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IIVL_REAL))]
     [Guid("c6f9db12-521d-4573-bc2f-d33ebeaba52c")]
@@ -19318,7 +19318,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IIVL_TSCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("8bd205fa-77e8-4176-84e2-953b5c98cdbe")]
 
     public partial interface IIVL_TS : IHL73Object, ICDAObject, ISXCM_TS
@@ -19392,7 +19392,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IVL_TS class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IIVL_TS))]
     [Guid("db0ee6ab-ef65-404c-8288-2ceb8cb325e8")]
@@ -19457,7 +19457,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IIVXB_INTCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("106bd861-0cc7-4013-a74f-727224fe1106")]
 
     public partial interface IIVXB_INT : IHL73Object, ICDAObject, IINT
@@ -19522,7 +19522,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IVXB_INT class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IIVXB_INT))]
     [Guid("a53580d5-9f44-434e-88b5-eb872834334c")]
@@ -19602,7 +19602,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IIVXB_MOCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("9f7e0cc2-c743-446f-9533-4a6f1e2a17a2")]
 
     public partial interface IIVXB_MO : IHL73Object, ICDAObject, IMO
@@ -19676,7 +19676,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IVXB_MO class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IIVXB_MO))]
     [Guid("19167a09-91b3-4825-baf9-dbb28c57a0f2")]
@@ -19756,7 +19756,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IIVXB_PPD_PQCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("9da124b8-941b-4caa-9d43-23cc8c1cff49")]
 
     public partial interface IIVXB_PPD_PQ : IHL73Object, ICDAObject, IPPD_PQ
@@ -19865,7 +19865,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IVXB_PPD_PQ class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IIVXB_PPD_PQ))]
     [Guid("a5227839-ba87-4d60-ba88-d7da0b67ff69")]
@@ -19945,7 +19945,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IIVXB_PPD_TSCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("6fbab4cd-a824-4a93-ba70-26fbe1e0f989")]
 
     public partial interface IIVXB_PPD_TS : IHL73Object, ICDAObject, IPPD_TS
@@ -20046,7 +20046,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IVXB_PPD_TS class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IIVXB_PPD_TS))]
     [Guid("f399a11f-3f2f-4ff9-a432-314a30df4d8b")]
@@ -20126,7 +20126,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IIVXB_PQCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("71cf8385-a387-459b-8088-1daa93aa1523")]
 
     public partial interface IIVXB_PQ : IHL73Object, ICDAObject, IPQ
@@ -20208,7 +20208,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IVXB_PQ class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IIVXB_PQ))]
     [Guid("f3b4ecf9-0b05-4921-8537-f91a7e7d4da7")]
@@ -20288,7 +20288,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IIVXB_REALCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("00c773a9-7ab8-413d-8465-73db9103f9c0")]
 
     public partial interface IIVXB_REAL : IHL73Object, ICDAObject, IREAL
@@ -20353,7 +20353,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IVXB_REAL class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IIVXB_REAL))]
     [Guid("fa1ffe9e-f11a-4ced-93ce-34d81635dfca")]
@@ -20433,7 +20433,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IIVXB_TSCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("bfb5c446-0f4f-42a9-89f2-830cddbe82d2")]
 
     public partial interface IIVXB_TS : IHL73Object, ICDAObject, ITS
@@ -20507,7 +20507,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IVXB_TS class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IIVXB_TS))]
     [Guid("27a33b5e-16fd-4fe4-855c-57a5891bcf1c")]
@@ -20587,7 +20587,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IMOCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("fd939f74-ba8f-4cca-855d-f182302a0107")]
 
     public partial interface IMO : IHL73Object, ICDAObject, IQTY
@@ -20652,7 +20652,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The MO class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IMO))]
     [Guid("8d146f29-4afb-472e-bcd9-45ca822336a0")]
@@ -20732,7 +20732,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IMOCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("20423b83-4b60-43b4-91bd-0a2ff3f00eff")]
     public partial interface IMOCollection : ICDACollection, IEnumerable<IMO>
@@ -20805,7 +20805,7 @@ namespace HL7SDK.Cda
         IMO Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("8779b690-4813-4c85-97f5-9617cf7aec85")]
     internal partial class MOCollection : CDAFactoryCollection<HL7SDK.Cda.MO, HL7SDK.Xml.Cda.MO, HL7SDK.Cda.IMO>, HL7SDK.Cda.IMOCollection
     {
@@ -20824,7 +20824,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IONCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("001f7e93-c895-4478-a9c4-963df8e6cd9c")]
 
     public partial interface ION : IHL73Object, ICDAObject, IEN
@@ -20915,7 +20915,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ON class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ION))]
     [Guid("e52b81d2-015f-494f-9e85-37654d2c4e3a")]
@@ -20980,7 +20980,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IONCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("54ae3ddc-1b51-419a-baa8-cad3699e3502")]
     public partial interface IONCollection : ICDACollection, IEnumerable<ION>
@@ -21053,7 +21053,7 @@ namespace HL7SDK.Cda
         ION Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("9198319e-03c8-42eb-af91-a95a93e51704")]
     internal partial class ONCollection : CDAFactoryCollection<HL7SDK.Cda.ON, HL7SDK.Xml.Cda.ON, HL7SDK.Cda.ION>, HL7SDK.Cda.IONCollection
     {
@@ -21072,7 +21072,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPIVL_PPD_TSCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("caf6c7fd-af5a-43d0-a592-c824b5a05a91")]
 
     public partial interface IPIVL_PPD_TS : IHL73Object, ICDAObject, ISXCM_PPD_TS
@@ -21209,7 +21209,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The PIVL_PPD_TS class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IPIVL_PPD_TS))]
     [Guid("e06e22b8-26df-4b5b-8fc9-4584a4e7c347")]
@@ -21384,7 +21384,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPIVL_TSCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("220f6b94-ec21-42f2-aa9a-41574de31f41")]
 
     public partial interface IPIVL_TS : IHL73Object, ICDAObject, ISXCM_TS
@@ -21494,7 +21494,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The PIVL_TS class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IPIVL_TS))]
     [Guid("a79918d9-251b-494e-ad27-c0beb181a663")]
@@ -21669,7 +21669,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPNCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("9727bf95-9f32-42f7-a40a-58f3f00ce481")]
 
     public partial interface IPN : IHL73Object, ICDAObject, IEN
@@ -21760,7 +21760,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The PN class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IPN))]
     [Guid("6e10d987-21db-49f2-9bc0-474c935aa649")]
@@ -21825,7 +21825,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPNCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("1364a9b3-44cf-458d-8b78-3a07ef220c97")]
     public partial interface IPNCollection : ICDACollection, IEnumerable<IPN>
@@ -21898,7 +21898,7 @@ namespace HL7SDK.Cda
         IPN Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("8ee0d373-84ad-4677-98b8-c10510b104a5")]
     internal partial class PNCollection : CDAFactoryCollection<HL7SDK.Cda.PN, HL7SDK.Xml.Cda.PN, HL7SDK.Cda.IPN>, HL7SDK.Cda.IPNCollection
     {
@@ -21917,7 +21917,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IActCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("859fbbfd-8067-4c9b-b408-5c371412269c")]
 
     public partial interface IAct : IHL73Object, ICDAObject, ICDAElement
@@ -22169,7 +22169,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Act class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IAct))]
     [Guid("d1ed9268-493c-47b3-819d-7dacbd9e977a")]
@@ -22750,7 +22750,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IActCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("f6b649f2-75d8-4a24-a0a8-a7047715bc9d")]
     public partial interface IActCollection : ICDACollection, IEnumerable<IAct>
@@ -22823,7 +22823,7 @@ namespace HL7SDK.Cda
         IAct Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("81162999-02cd-4a37-9462-76f876a1d04d")]
     internal partial class ActCollection : CDAFactoryCollection<HL7SDK.Cda.Act, HL7SDK.Xml.Cda.POCD_MT000040Act, HL7SDK.Cda.IAct>, HL7SDK.Cda.IActCollection
     {
@@ -22842,7 +22842,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IAssignedAuthorCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("9c11e104-0e3e-4d6f-ba48-2300b896316c")]
 
     public partial interface IAssignedAuthor : IHL73Object, ICDAObject, ICDAElement
@@ -22997,7 +22997,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The AssignedAuthor class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IAssignedAuthor))]
     [Guid("9fb0bc22-0b52-43a2-be06-0538966b3979")]
@@ -23420,7 +23420,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IAssignedAuthorCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("84e1f401-ea00-460d-99fc-8d4b70d5a6fe")]
     public partial interface IAssignedAuthorCollection : ICDACollection, IEnumerable<IAssignedAuthor>
@@ -23493,7 +23493,7 @@ namespace HL7SDK.Cda
         IAssignedAuthor Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("82f42f6b-bae2-4ca4-a44f-245527dff13a")]
     internal partial class AssignedAuthorCollection : CDAFactoryCollection<HL7SDK.Cda.AssignedAuthor, HL7SDK.Xml.Cda.POCD_MT000040AssignedAuthor, HL7SDK.Cda.IAssignedAuthor>, HL7SDK.Cda.IAssignedAuthorCollection
     {
@@ -23512,7 +23512,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IAssignedCustodianCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("84815780-0cd6-4cbd-9189-a020d1228831")]
 
     public partial interface IAssignedCustodian : IHL73Object, ICDAObject, ICDAElement
@@ -23611,7 +23611,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The AssignedCustodian class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IAssignedCustodian))]
     [Guid("cd4bf244-bbf8-4969-b4e5-d5b533572a2e")]
@@ -23808,7 +23808,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IAssignedCustodianCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("976c8c71-54b5-4962-9fc7-7090fa7a5472")]
     public partial interface IAssignedCustodianCollection : ICDACollection, IEnumerable<IAssignedCustodian>
@@ -23881,7 +23881,7 @@ namespace HL7SDK.Cda
         IAssignedCustodian Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("7360d6b1-bc67-446d-9124-ba13b1e3438c")]
     internal partial class AssignedCustodianCollection : CDAFactoryCollection<HL7SDK.Cda.AssignedCustodian, HL7SDK.Xml.Cda.POCD_MT000040AssignedCustodian, HL7SDK.Cda.IAssignedCustodian>, HL7SDK.Cda.IAssignedCustodianCollection
     {
@@ -23900,7 +23900,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IAssignedEntityCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("242ab12f-dbe5-4e58-b5b1-b77031e85660")]
 
     public partial interface IAssignedEntity : IHL73Object, ICDAObject, ICDAElement
@@ -24041,7 +24041,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The AssignedEntity class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IAssignedEntity))]
     [Guid("eee5bbce-53b0-42e1-8add-3f014449c559")]
@@ -24351,7 +24351,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IAssignedEntityCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("fbb7ec83-4bd2-457f-b443-8d46b8f26af8")]
     public partial interface IAssignedEntityCollection : ICDACollection, IEnumerable<IAssignedEntity>
@@ -24424,7 +24424,7 @@ namespace HL7SDK.Cda
         IAssignedEntity Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("96b14849-5e84-43ac-bb32-0add6051c7fd")]
     internal partial class AssignedEntityCollection : CDAFactoryCollection<HL7SDK.Cda.AssignedEntity, HL7SDK.Xml.Cda.POCD_MT000040AssignedEntity, HL7SDK.Cda.IAssignedEntity>, HL7SDK.Cda.IAssignedEntityCollection
     {
@@ -24443,7 +24443,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IAssociatedEntityCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("db91f11f-d138-4a94-9308-4f70fb3ba4a8")]
 
     public partial interface IAssociatedEntity : IHL73Object, ICDAObject, ICDAElement
@@ -24584,7 +24584,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The AssociatedEntity class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IAssociatedEntity))]
     [Guid("9c47988c-a548-4e17-80dc-bded6c4838c3")]
@@ -24894,7 +24894,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IAssociatedEntityCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("3a836cd1-d042-479e-8c35-0afdee27c77a")]
     public partial interface IAssociatedEntityCollection : ICDACollection, IEnumerable<IAssociatedEntity>
@@ -24967,7 +24967,7 @@ namespace HL7SDK.Cda
         IAssociatedEntity Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("07e98662-d783-490e-a28c-a5d07d2ec281")]
     internal partial class AssociatedEntityCollection : CDAFactoryCollection<HL7SDK.Cda.AssociatedEntity, HL7SDK.Xml.Cda.POCD_MT000040AssociatedEntity, HL7SDK.Cda.IAssociatedEntity>, HL7SDK.Cda.IAssociatedEntityCollection
     {
@@ -24986,7 +24986,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IAuthenticatorCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("99c03162-6b5d-4c78-99ba-95ba49eb7e14")]
 
     public partial interface IAuthenticator : IHL73Object, ICDAObject, ICDAElement
@@ -25103,7 +25103,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Authenticator class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IAuthenticator))]
     [Guid("b717490f-c041-45d6-afbd-45bb58c2af2a")]
@@ -25380,7 +25380,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IAuthenticatorCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("945597cb-02a1-4a3a-9acd-521503980453")]
     public partial interface IAuthenticatorCollection : ICDACollection, IEnumerable<IAuthenticator>
@@ -25453,7 +25453,7 @@ namespace HL7SDK.Cda
         IAuthenticator Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("20dcc07a-f1be-44b2-9942-8560a3f93692")]
     internal partial class AuthenticatorCollection : CDAFactoryCollection<HL7SDK.Cda.Authenticator, HL7SDK.Xml.Cda.POCD_MT000040Authenticator, HL7SDK.Cda.IAuthenticator>, HL7SDK.Cda.IAuthenticatorCollection
     {
@@ -25472,7 +25472,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IAuthorCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("984e6d66-8318-430a-9315-590c18e8fa22")]
 
     public partial interface IAuthor : IHL73Object, ICDAObject, ICDAElement
@@ -25598,7 +25598,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Author class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IAuthor))]
     [Guid("55b4f31f-8b03-4eda-8988-71e95de3d031")]
@@ -25890,7 +25890,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IAuthorCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("229c49c7-e030-4a7b-bcca-6363bd4fc1a4")]
     public partial interface IAuthorCollection : ICDACollection, IEnumerable<IAuthor>
@@ -25963,7 +25963,7 @@ namespace HL7SDK.Cda
         IAuthor Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("316f96e1-e8ad-48da-a92e-98db38fd0ef0")]
     internal partial class AuthorCollection : CDAFactoryCollection<HL7SDK.Cda.Author, HL7SDK.Xml.Cda.POCD_MT000040Author, HL7SDK.Cda.IAuthor>, HL7SDK.Cda.IAuthorCollection
     {
@@ -25982,7 +25982,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IAuthoringDeviceCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("8b6213b9-d7db-4590-9968-05acda87bfdb")]
 
     public partial interface IAuthoringDevice : IHL73Object, ICDAObject, ICDAElement
@@ -26125,7 +26125,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The AuthoringDevice class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IAuthoringDevice))]
     [Guid("4dc301b5-a8cf-44e9-8a2e-bacfb55f065a")]
@@ -26444,7 +26444,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IAuthoringDeviceCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("bed7a963-61ec-4926-bf10-c0db00b19a02")]
     public partial interface IAuthoringDeviceCollection : ICDACollection, IEnumerable<IAuthoringDevice>
@@ -26517,7 +26517,7 @@ namespace HL7SDK.Cda
         IAuthoringDevice Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("4500e96d-de3c-4436-b729-bcde9a935294")]
     internal partial class AuthoringDeviceCollection : CDAFactoryCollection<HL7SDK.Cda.AuthoringDevice, HL7SDK.Xml.Cda.POCD_MT000040AuthoringDevice, HL7SDK.Cda.IAuthoringDevice>, HL7SDK.Cda.IAuthoringDeviceCollection
     {
@@ -26536,7 +26536,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IAuthorizationCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("9f61008f-8983-4b32-9ecd-a776b3a79a43")]
 
     public partial interface IAuthorization : IHL73Object, ICDAObject, ICDAElement
@@ -26635,7 +26635,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Authorization class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IAuthorization))]
     [Guid("2d6e4900-0ba2-49b4-aff2-17a12649c675")]
@@ -26832,7 +26832,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IAuthorizationCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("ad2b0a4f-e83f-4e29-aa04-e0a575b25724")]
     public partial interface IAuthorizationCollection : ICDACollection, IEnumerable<IAuthorization>
@@ -26905,7 +26905,7 @@ namespace HL7SDK.Cda
         IAuthorization Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("95cf61d6-e90c-4d5a-8216-60149fe2c086")]
     internal partial class AuthorizationCollection : CDAFactoryCollection<HL7SDK.Cda.Authorization, HL7SDK.Xml.Cda.POCD_MT000040Authorization, HL7SDK.Cda.IAuthorization>, HL7SDK.Cda.IAuthorizationCollection
     {
@@ -26924,7 +26924,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IBirthplaceCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("de03e8de-3643-42c9-8fcc-3c67812dcf36")]
 
     public partial interface IBirthplace : IHL73Object, ICDAObject, ICDAElement
@@ -27023,7 +27023,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Birthplace class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IBirthplace))]
     [Guid("149590e3-16f5-4533-8ef7-6ef6e1bcdfb1")]
@@ -27220,7 +27220,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IBirthplaceCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("4f463380-55e0-4b97-9859-03c3cbf7a034")]
     public partial interface IBirthplaceCollection : ICDACollection, IEnumerable<IBirthplace>
@@ -27293,7 +27293,7 @@ namespace HL7SDK.Cda
         IBirthplace Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("8ea18558-5709-49cd-b28f-48b690684b6c")]
     internal partial class BirthplaceCollection : CDAFactoryCollection<HL7SDK.Cda.Birthplace, HL7SDK.Xml.Cda.POCD_MT000040Birthplace, HL7SDK.Cda.IBirthplace>, HL7SDK.Cda.IBirthplaceCollection
     {
@@ -27312,7 +27312,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IClinicalDocumentCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("665c46e9-aeb3-4743-8b67-78faea222d84")]
 
     public partial interface IClinicalDocument : IHL73Object, ICDAObject, ICDAElement
@@ -27626,7 +27626,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ClinicalDocument class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IClinicalDocument))]
     [Guid("dccf8ec3-3264-4ede-80a2-79dd5dbda532")]
@@ -28484,7 +28484,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IComponent1Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("0eb2e7da-f15a-4777-99e3-ca885ebca863")]
 
     public partial interface IComponent1 : IHL73Object, ICDAObject, ICDAElement
@@ -28592,7 +28592,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Component1 class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IComponent1))]
     [Guid("2eed6bfd-e9f8-4e8a-a74c-2e17d5b6f9ae")]
@@ -28805,7 +28805,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IComponent1Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("405f1063-c213-47fd-915d-0bc01bc3fc51")]
     public partial interface IComponent1Collection : ICDACollection, IEnumerable<IComponent1>
@@ -28878,7 +28878,7 @@ namespace HL7SDK.Cda
         IComponent1 Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("785509df-c876-455b-a861-14ea5cbf3e7c")]
     internal partial class Component1Collection : CDAFactoryCollection<HL7SDK.Cda.Component1, HL7SDK.Xml.Cda.POCD_MT000040Component1, HL7SDK.Cda.IComponent1>, HL7SDK.Cda.IComponent1Collection
     {
@@ -28897,7 +28897,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IComponent2Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("5c80f7be-3a60-4ca4-b3bc-54012ea20f24")]
 
     public partial interface IComponent2 : IHL73Object, ICDAObject, ICDAElement
@@ -29037,7 +29037,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Component2 class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IComponent2))]
     [Guid("855d86d1-3229-45ef-9c92-ab02fe23a971")]
@@ -29393,7 +29393,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IComponent2Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("49c85de7-ab9e-4585-8836-d09a389a06ee")]
     public partial interface IComponent2Collection : ICDACollection, IEnumerable<IComponent2>
@@ -29466,7 +29466,7 @@ namespace HL7SDK.Cda
         IComponent2 Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("a5646b78-5307-4176-b437-6ff29ec3551d")]
     internal partial class Component2Collection : CDAFactoryCollection<HL7SDK.Cda.Component2, HL7SDK.Xml.Cda.POCD_MT000040Component2, HL7SDK.Cda.IComponent2>, HL7SDK.Cda.IComponent2Collection
     {
@@ -29485,7 +29485,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IComponent3Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("b732772d-e8ae-4a13-bfa0-41978ea8017f")]
 
     public partial interface IComponent3 : IHL73Object, ICDAObject, ICDAElement
@@ -29611,7 +29611,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Component3 class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IComponent3))]
     [Guid("0bc5ee73-c363-4976-90c8-cd4e6ac5a205")]
@@ -29854,7 +29854,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IComponent3Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("28c5667c-ff18-4685-8f1a-d1fa9a3648cd")]
     public partial interface IComponent3Collection : ICDACollection, IEnumerable<IComponent3>
@@ -29927,7 +29927,7 @@ namespace HL7SDK.Cda
         IComponent3 Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("6f51fe2a-21b4-411e-b382-ed4377321162")]
     internal partial class Component3Collection : CDAFactoryCollection<HL7SDK.Cda.Component3, HL7SDK.Xml.Cda.POCD_MT000040Component3, HL7SDK.Cda.IComponent3>, HL7SDK.Cda.IComponent3Collection
     {
@@ -29946,7 +29946,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IComponent4Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("e4ccbb53-f963-4d50-9f8d-246f4f580449")]
 
     public partial interface IComponent4 : IHL73Object, ICDAObject, ICDAElement
@@ -30167,7 +30167,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Component4 class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IComponent4))]
     [Guid("9cdb00d3-9040-4cb1-911a-203b8ae6186f")]
@@ -31086,7 +31086,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IComponent4Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("cb6502d1-a5b7-4a30-9e12-c814cb564fb7")]
     public partial interface IComponent4Collection : ICDACollection, IEnumerable<IComponent4>
@@ -31159,7 +31159,7 @@ namespace HL7SDK.Cda
         IComponent4 Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("bc40fbb2-2806-4a3b-b655-83c4ed689fbf")]
     internal partial class Component4Collection : CDAFactoryCollection<HL7SDK.Cda.Component4, HL7SDK.Xml.Cda.POCD_MT000040Component4, HL7SDK.Cda.IComponent4>, HL7SDK.Cda.IComponent4Collection
     {
@@ -31178,7 +31178,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IComponent5Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("0f991f32-19af-433f-b955-c49afe56c450")]
 
     public partial interface IComponent5 : IHL73Object, ICDAObject, ICDAElement
@@ -31304,7 +31304,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Component5 class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IComponent5))]
     [Guid("00d7404c-8cf6-4354-b153-ef44290d3aab")]
@@ -31547,7 +31547,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IComponent5Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("b5727d81-199b-49d2-83ba-877b24038d47")]
     public partial interface IComponent5Collection : ICDACollection, IEnumerable<IComponent5>
@@ -31620,7 +31620,7 @@ namespace HL7SDK.Cda
         IComponent5 Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("1751c9a3-4cfe-4a74-b14a-435fa007207e")]
     internal partial class Component5Collection : CDAFactoryCollection<HL7SDK.Cda.Component5, HL7SDK.Xml.Cda.POCD_MT000040Component5, HL7SDK.Cda.IComponent5>, HL7SDK.Cda.IComponent5Collection
     {
@@ -31639,7 +31639,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IConsentCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("bb222b48-43c8-4ed6-ba69-b7384175498a")]
 
     public partial interface IConsent : IHL73Object, ICDAObject, ICDAElement
@@ -31764,7 +31764,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Consent class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IConsent))]
     [Guid("0b46b2dd-f974-46f1-bb8b-03e6bae3776b")]
@@ -32027,7 +32027,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IConsentCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("b1781de3-c923-4299-9492-99160891c2b7")]
     public partial interface IConsentCollection : ICDACollection, IEnumerable<IConsent>
@@ -32100,7 +32100,7 @@ namespace HL7SDK.Cda
         IConsent Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("e3965d52-2c74-485a-bf8c-2fe09eebac6f")]
     internal partial class ConsentCollection : CDAFactoryCollection<HL7SDK.Cda.Consent, HL7SDK.Xml.Cda.POCD_MT000040Consent, HL7SDK.Cda.IConsent>, HL7SDK.Cda.IConsentCollection
     {
@@ -32119,7 +32119,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IConsumableCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("7829e55d-522b-4fb1-99a0-9953655f04a5")]
 
     public partial interface IConsumable : IHL73Object, ICDAObject, ICDAElement
@@ -32218,7 +32218,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Consumable class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IConsumable))]
     [Guid("8b1374dc-f5ce-48ef-8e65-0a760cf1290b")]
@@ -32415,7 +32415,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IConsumableCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("3bbf442c-5c30-4e75-a65f-57acaaa7f9ef")]
     public partial interface IConsumableCollection : ICDACollection, IEnumerable<IConsumable>
@@ -32488,7 +32488,7 @@ namespace HL7SDK.Cda
         IConsumable Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("cb4d1511-06d4-41fe-8b15-abda6c457670")]
     internal partial class ConsumableCollection : CDAFactoryCollection<HL7SDK.Cda.Consumable, HL7SDK.Xml.Cda.POCD_MT000040Consumable, HL7SDK.Cda.IConsumable>, HL7SDK.Cda.IConsumableCollection
     {
@@ -32507,7 +32507,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ICriterionCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("08b6f7e5-9806-4cd0-ba94-b9494ad982ea")]
 
     public partial interface ICriterion : IHL73Object, ICDAObject, ICDAElement
@@ -32624,7 +32624,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Criterion class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ICriterion))]
     [Guid("55cc57a2-ce7d-4232-91b9-d260b2adddfa")]
@@ -32876,7 +32876,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ICriterionCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("7ffc5729-b480-4bca-9766-74ca5977a37b")]
     public partial interface ICriterionCollection : ICDACollection, IEnumerable<ICriterion>
@@ -32949,7 +32949,7 @@ namespace HL7SDK.Cda
         ICriterion Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("173bbe3d-b627-4527-98c2-78e6e2ebd0f8")]
     internal partial class CriterionCollection : CDAFactoryCollection<HL7SDK.Cda.Criterion, HL7SDK.Xml.Cda.POCD_MT000040Criterion, HL7SDK.Cda.ICriterion>, HL7SDK.Cda.ICriterionCollection
     {
@@ -32968,7 +32968,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ICustodianCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("39f27172-b269-4d67-bcc9-03d3c388e479")]
 
     public partial interface ICustodian : IHL73Object, ICDAObject, ICDAElement
@@ -33067,7 +33067,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Custodian class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ICustodian))]
     [Guid("45466001-97e9-4730-a43b-57171db23532")]
@@ -33264,7 +33264,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ICustodianCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("0aed2535-f23a-425e-9cd1-ff8ce652b24b")]
     public partial interface ICustodianCollection : ICDACollection, IEnumerable<ICustodian>
@@ -33337,7 +33337,7 @@ namespace HL7SDK.Cda
         ICustodian Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("b7c8a078-417e-4d7f-a72d-951d4ea50263")]
     internal partial class CustodianCollection : CDAFactoryCollection<HL7SDK.Cda.Custodian, HL7SDK.Xml.Cda.POCD_MT000040Custodian, HL7SDK.Cda.ICustodian>, HL7SDK.Cda.ICustodianCollection
     {
@@ -33356,7 +33356,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ICustodianOrganizationCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("a19549ef-2d24-4c59-8073-691b7c7d8902")]
 
     public partial interface ICustodianOrganization : IHL73Object, ICDAObject, ICDAElement
@@ -33490,7 +33490,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The CustodianOrganization class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ICustodianOrganization))]
     [Guid("c7bb43dc-5797-4f4b-9d24-00c5fa9adecb")]
@@ -33793,7 +33793,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ICustodianOrganizationCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("ad48920c-9936-4981-9bdf-fae72922cd02")]
     public partial interface ICustodianOrganizationCollection : ICDACollection, IEnumerable<ICustodianOrganization>
@@ -33866,7 +33866,7 @@ namespace HL7SDK.Cda
         ICustodianOrganization Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("39aac750-bbe0-4f7f-bfee-8414bd08d01d")]
     internal partial class CustodianOrganizationCollection : CDAFactoryCollection<HL7SDK.Cda.CustodianOrganization, HL7SDK.Xml.Cda.POCD_MT000040CustodianOrganization, HL7SDK.Cda.ICustodianOrganization>, HL7SDK.Cda.ICustodianOrganizationCollection
     {
@@ -33885,7 +33885,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IDataEntererCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("b582238e-c3fa-4f28-8658-53eb1a37bab7")]
 
     public partial interface IDataEnterer : IHL73Object, ICDAObject, ICDAElement
@@ -34002,7 +34002,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The DataEnterer class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IDataEnterer))]
     [Guid("69c3d807-3b15-41c2-a1e0-a224074f8c0b")]
@@ -34254,7 +34254,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IDataEntererCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("d3d71c38-6fe9-4b0b-826f-af9b2949bf82")]
     public partial interface IDataEntererCollection : ICDACollection, IEnumerable<IDataEnterer>
@@ -34327,7 +34327,7 @@ namespace HL7SDK.Cda
         IDataEnterer Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("9d1b5ea2-4cac-4495-acc1-0566f662805c")]
     internal partial class DataEntererCollection : CDAFactoryCollection<HL7SDK.Cda.DataEnterer, HL7SDK.Xml.Cda.POCD_MT000040DataEnterer, HL7SDK.Cda.IDataEnterer>, HL7SDK.Cda.IDataEntererCollection
     {
@@ -34346,7 +34346,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IDeviceCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("545478db-9f37-489a-b21d-8bfcaf8556c5")]
 
     public partial interface IDevice : IHL73Object, ICDAObject, ICDAElement
@@ -34472,7 +34472,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Device class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IDevice))]
     [Guid("dca901e6-e1d0-499d-91cb-8c386553afc9")]
@@ -34764,7 +34764,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IDeviceCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("92c0026f-656e-4be4-bbdc-12904b547f74")]
     public partial interface IDeviceCollection : ICDACollection, IEnumerable<IDevice>
@@ -34837,7 +34837,7 @@ namespace HL7SDK.Cda
         IDevice Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("12f7339e-ecdb-4efd-9bdf-fa551c2feac2")]
     internal partial class DeviceCollection : CDAFactoryCollection<HL7SDK.Cda.Device, HL7SDK.Xml.Cda.POCD_MT000040Device, HL7SDK.Cda.IDevice>, HL7SDK.Cda.IDeviceCollection
     {
@@ -34856,7 +34856,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IDocumentationOfCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("8aca603a-cd0c-4e58-81a2-5442df9c2409")]
 
     public partial interface IDocumentationOf : IHL73Object, ICDAObject, ICDAElement
@@ -34955,7 +34955,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The DocumentationOf class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IDocumentationOf))]
     [Guid("eafff794-3864-4ada-908c-101f74fcb530")]
@@ -35152,7 +35152,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IDocumentationOfCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("e96006b0-d22e-4ab6-bd1d-ed416a94ba19")]
     public partial interface IDocumentationOfCollection : ICDACollection, IEnumerable<IDocumentationOf>
@@ -35225,7 +35225,7 @@ namespace HL7SDK.Cda
         IDocumentationOf Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("7e3ae38e-f765-40ef-9e20-92ee57b96b60")]
     internal partial class DocumentationOfCollection : CDAFactoryCollection<HL7SDK.Cda.DocumentationOf, HL7SDK.Xml.Cda.POCD_MT000040DocumentationOf, HL7SDK.Cda.IDocumentationOf>, HL7SDK.Cda.IDocumentationOfCollection
     {
@@ -35244,7 +35244,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IEncompassingEncounterCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("8f294ae7-2696-4843-aa3b-c87997618366")]
 
     public partial interface IEncompassingEncounter : IHL73Object, ICDAObject, ICDAElement
@@ -35404,7 +35404,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The EncompassingEncounter class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IEncompassingEncounter))]
     [Guid("24f18510-1a1f-43f5-9be7-95a4111cf8aa")]
@@ -35798,7 +35798,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IEncompassingEncounterCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("d532aa53-a7d9-4f5b-89d8-1a8a824ed3e5")]
     public partial interface IEncompassingEncounterCollection : ICDACollection, IEnumerable<IEncompassingEncounter>
@@ -35871,7 +35871,7 @@ namespace HL7SDK.Cda
         IEncompassingEncounter Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("f8beb332-6769-4cd9-8bd6-750405988a52")]
     internal partial class EncompassingEncounterCollection : CDAFactoryCollection<HL7SDK.Cda.EncompassingEncounter, HL7SDK.Xml.Cda.POCD_MT000040EncompassingEncounter, HL7SDK.Cda.IEncompassingEncounter>, HL7SDK.Cda.IEncompassingEncounterCollection
     {
@@ -35890,7 +35890,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IEncounterCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("b803c650-babf-4cef-8e20-38cf50ef990e")]
 
     public partial interface IEncounter : IHL73Object, ICDAObject, ICDAElement
@@ -36115,7 +36115,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Encounter class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IEncounter))]
     [Guid("eda9c582-1add-4a33-a52c-666b03863427")]
@@ -36626,7 +36626,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IEncounterCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("a4c6b5eb-54f7-431e-89de-9f615ef7cc2b")]
     public partial interface IEncounterCollection : ICDACollection, IEnumerable<IEncounter>
@@ -36699,7 +36699,7 @@ namespace HL7SDK.Cda
         IEncounter Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("d6e43659-b3c8-4559-b323-666d4878bc38")]
     internal partial class EncounterCollection : CDAFactoryCollection<HL7SDK.Cda.Encounter, HL7SDK.Xml.Cda.POCD_MT000040Encounter, HL7SDK.Cda.IEncounter>, HL7SDK.Cda.IEncounterCollection
     {
@@ -36718,7 +36718,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IEncounterParticipantCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("28135db0-deff-44c6-8bce-b043c1ebd0ef")]
 
     public partial interface IEncounterParticipant : IHL73Object, ICDAObject, ICDAElement
@@ -36826,7 +36826,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The EncounterParticipant class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IEncounterParticipant))]
     [Guid("c250fe84-1164-4c1f-be15-630372ce05f4")]
@@ -37063,7 +37063,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IEncounterParticipantCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("6c1b8e0d-c5d9-4ea4-81e7-86826a6a55c3")]
     public partial interface IEncounterParticipantCollection : ICDACollection, IEnumerable<IEncounterParticipant>
@@ -37136,7 +37136,7 @@ namespace HL7SDK.Cda
         IEncounterParticipant Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("ecbae2ad-0df7-4c4d-830a-a6f3af3cac39")]
     internal partial class EncounterParticipantCollection : CDAFactoryCollection<HL7SDK.Cda.EncounterParticipant, HL7SDK.Xml.Cda.POCD_MT000040EncounterParticipant, HL7SDK.Cda.IEncounterParticipant>, HL7SDK.Cda.IEncounterParticipantCollection
     {
@@ -37155,7 +37155,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IEntityCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("4360b98c-445f-45c4-903b-8b7f481571d4")]
 
     public partial interface IEntity : IHL73Object, ICDAObject, ICDAElement
@@ -37280,7 +37280,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Entity class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IEntity))]
     [Guid("0dac69a3-07b8-4480-82f6-79c479aea7d5")]
@@ -37543,7 +37543,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IEntityCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("b3bb6fe8-ac60-43e0-aba0-bc2d37aea0c6")]
     public partial interface IEntityCollection : ICDACollection, IEnumerable<IEntity>
@@ -37616,7 +37616,7 @@ namespace HL7SDK.Cda
         IEntity Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("74e65eb4-60f0-4dcc-a123-51c53cc975e3")]
     internal partial class EntityCollection : CDAFactoryCollection<HL7SDK.Cda.Entity, HL7SDK.Xml.Cda.POCD_MT000040Entity, HL7SDK.Cda.IEntity>, HL7SDK.Cda.IEntityCollection
     {
@@ -37635,7 +37635,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IEntryCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("48e94811-a309-4fce-a021-1c4f2cf80189")]
 
     public partial interface IEntry : IHL73Object, ICDAObject, ICDAElement
@@ -37829,7 +37829,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Entry class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IEntry))]
     [Guid("a93adf15-1f36-4570-8916-7c50e876a173")]
@@ -38652,7 +38652,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IEntryCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("35ea5712-e3e1-4b89-afdf-011e92e9650f")]
     public partial interface IEntryCollection : ICDACollection, IEnumerable<IEntry>
@@ -38725,7 +38725,7 @@ namespace HL7SDK.Cda
         IEntry Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("1bee64ad-e4a5-44b8-a1c8-ba7559a2407f")]
     internal partial class EntryCollection : CDAFactoryCollection<HL7SDK.Cda.Entry, HL7SDK.Xml.Cda.POCD_MT000040Entry, HL7SDK.Cda.IEntry>, HL7SDK.Cda.IEntryCollection
     {
@@ -38744,7 +38744,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IEntryRelationshipCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("c02c07f3-4ccb-436f-8fe1-9fe3d2a283ab")]
 
     public partial interface IEntryRelationship : IHL73Object, ICDAObject, ICDAElement
@@ -38983,7 +38983,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The EntryRelationship class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IEntryRelationship))]
     [Guid("cd4d0e1f-3241-4258-a4ec-87f352285c75")]
@@ -39931,7 +39931,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IEntryRelationshipCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("f53be0f9-5808-4e26-a4d2-c74176456587")]
     public partial interface IEntryRelationshipCollection : ICDACollection, IEnumerable<IEntryRelationship>
@@ -40004,7 +40004,7 @@ namespace HL7SDK.Cda
         IEntryRelationship Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("34a7eb3c-9012-4e38-91a6-de580b8466d4")]
     internal partial class EntryRelationshipCollection : CDAFactoryCollection<HL7SDK.Cda.EntryRelationship, HL7SDK.Xml.Cda.POCD_MT000040EntryRelationship, HL7SDK.Cda.IEntryRelationship>, HL7SDK.Cda.IEntryRelationshipCollection
     {
@@ -40023,7 +40023,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IExternalActCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("d9134595-a5c9-40a8-9cb0-37ecc89df5a4")]
 
     public partial interface IExternalAct : IHL73Object, ICDAObject, ICDAElement
@@ -40148,7 +40148,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ExternalAct class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IExternalAct))]
     [Guid("1ee7d5c6-f3aa-4e02-bd53-224e1a8d7a6b")]
@@ -40411,7 +40411,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IExternalActCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("0b887efc-1512-436f-a8f0-12ef743f5a66")]
     public partial interface IExternalActCollection : ICDACollection, IEnumerable<IExternalAct>
@@ -40484,7 +40484,7 @@ namespace HL7SDK.Cda
         IExternalAct Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("7d5c0d0c-6642-4caa-9cc6-2ead13dff071")]
     internal partial class ExternalActCollection : CDAFactoryCollection<HL7SDK.Cda.ExternalAct, HL7SDK.Xml.Cda.POCD_MT000040ExternalAct, HL7SDK.Cda.IExternalAct>, HL7SDK.Cda.IExternalActCollection
     {
@@ -40503,7 +40503,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IExternalDocumentCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("70f1d46b-7e1d-4e00-affe-ee489913856b")]
 
     public partial interface IExternalDocument : IHL73Object, ICDAObject, ICDAElement
@@ -40646,7 +40646,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ExternalDocument class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IExternalDocument))]
     [Guid("adacae5c-65d7-47e6-aa15-5383575b9ea4")]
@@ -40989,7 +40989,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IExternalDocumentCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("13b023ee-8881-4ec8-9c0e-9d56d0eb73fa")]
     public partial interface IExternalDocumentCollection : ICDACollection, IEnumerable<IExternalDocument>
@@ -41062,7 +41062,7 @@ namespace HL7SDK.Cda
         IExternalDocument Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("fdd2fd7b-b247-45b7-938b-d44eec6e619e")]
     internal partial class ExternalDocumentCollection : CDAFactoryCollection<HL7SDK.Cda.ExternalDocument, HL7SDK.Xml.Cda.POCD_MT000040ExternalDocument, HL7SDK.Cda.IExternalDocument>, HL7SDK.Cda.IExternalDocumentCollection
     {
@@ -41081,7 +41081,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IExternalObservationCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("e74dbc62-2d75-4965-b97a-7973335ba798")]
 
     public partial interface IExternalObservation : IHL73Object, ICDAObject, ICDAElement
@@ -41206,7 +41206,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ExternalObservation class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IExternalObservation))]
     [Guid("746fdcd1-8906-4558-bac8-92066591595e")]
@@ -41469,7 +41469,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IExternalObservationCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("146ce815-e41d-49a2-861a-0f2968e88b8e")]
     public partial interface IExternalObservationCollection : ICDACollection, IEnumerable<IExternalObservation>
@@ -41542,7 +41542,7 @@ namespace HL7SDK.Cda
         IExternalObservation Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("dacd4330-e298-4ed0-9065-96a56f6a3892")]
     internal partial class ExternalObservationCollection : CDAFactoryCollection<HL7SDK.Cda.ExternalObservation, HL7SDK.Xml.Cda.POCD_MT000040ExternalObservation, HL7SDK.Cda.IExternalObservation>, HL7SDK.Cda.IExternalObservationCollection
     {
@@ -41561,7 +41561,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IExternalProcedureCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("079b8cbc-a1ae-4676-9199-7f56242e28e9")]
 
     public partial interface IExternalProcedure : IHL73Object, ICDAObject, ICDAElement
@@ -41686,7 +41686,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ExternalProcedure class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IExternalProcedure))]
     [Guid("bd48c1d8-9523-4ef4-ac2c-e9a88bf6d81a")]
@@ -41949,7 +41949,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IExternalProcedureCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("8ea4e683-d214-4a11-8ccf-877fabbb74dc")]
     public partial interface IExternalProcedureCollection : ICDACollection, IEnumerable<IExternalProcedure>
@@ -42022,7 +42022,7 @@ namespace HL7SDK.Cda
         IExternalProcedure Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("3b8c2955-b5cf-4ccd-b449-60957222abe6")]
     internal partial class ExternalProcedureCollection : CDAFactoryCollection<HL7SDK.Cda.ExternalProcedure, HL7SDK.Xml.Cda.POCD_MT000040ExternalProcedure, HL7SDK.Cda.IExternalProcedure>, HL7SDK.Cda.IExternalProcedureCollection
     {
@@ -42041,7 +42041,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IGuardianCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("084f14c2-f53d-42bb-8bed-6ffdaaadcd94")]
 
     public partial interface IGuardian : IHL73Object, ICDAObject, ICDAElement
@@ -42187,7 +42187,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Guardian class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IGuardian))]
     [Guid("e163b80e-f27e-4d69-8c92-81e3a5f2cac6")]
@@ -42570,7 +42570,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IGuardianCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("989db215-14f6-4103-96a3-2def0337a87f")]
     public partial interface IGuardianCollection : ICDACollection, IEnumerable<IGuardian>
@@ -42643,7 +42643,7 @@ namespace HL7SDK.Cda
         IGuardian Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("73e55327-e32c-4391-b0ca-b1e5ddd665ed")]
     internal partial class GuardianCollection : CDAFactoryCollection<HL7SDK.Cda.Guardian, HL7SDK.Xml.Cda.POCD_MT000040Guardian, HL7SDK.Cda.IGuardian>, HL7SDK.Cda.IGuardianCollection
     {
@@ -42662,7 +42662,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IHealthCareFacilityCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("49629d72-8d27-4db3-a17f-4a0f95ac49ba")]
 
     public partial interface IHealthCareFacility : IHL73Object, ICDAObject, ICDAElement
@@ -42787,7 +42787,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The HealthCareFacility class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IHealthCareFacility))]
     [Guid("0ab4a719-f40f-4031-ac1f-a2bf47698a7d")]
@@ -43075,7 +43075,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IHealthCareFacilityCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("39c83c91-c940-4203-9542-52da8335ff45")]
     public partial interface IHealthCareFacilityCollection : ICDACollection, IEnumerable<IHealthCareFacility>
@@ -43148,7 +43148,7 @@ namespace HL7SDK.Cda
         IHealthCareFacility Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("2994a50d-d817-419f-8a05-f4aaa56246ea")]
     internal partial class HealthCareFacilityCollection : CDAFactoryCollection<HL7SDK.Cda.HealthCareFacility, HL7SDK.Xml.Cda.POCD_MT000040HealthCareFacility, HL7SDK.Cda.IHealthCareFacility>, HL7SDK.Cda.IHealthCareFacilityCollection
     {
@@ -43167,7 +43167,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IInformant12Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("4e4a8cf3-8558-4f1d-a8ca-df57407169e1")]
 
     public partial interface IInformant12 : IHL73Object, ICDAObject, ICDAElement
@@ -43289,7 +43289,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Informant12 class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IInformant12))]
     [Guid("6ef5aa79-8bbc-45f8-9d11-081075ba9dda")]
@@ -43614,7 +43614,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IInformant12Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("3008b2f5-5da2-4376-88b5-667dfdea2ab1")]
     public partial interface IInformant12Collection : ICDACollection, IEnumerable<IInformant12>
@@ -43687,7 +43687,7 @@ namespace HL7SDK.Cda
         IInformant12 Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("129665da-87bb-4360-99bb-9add14fe888e")]
     internal partial class Informant12Collection : CDAFactoryCollection<HL7SDK.Cda.Informant12, HL7SDK.Xml.Cda.POCD_MT000040Informant12, HL7SDK.Cda.IInformant12>, HL7SDK.Cda.IInformant12Collection
     {
@@ -43706,7 +43706,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IInformationRecipientCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("7a4a1dbe-ad74-4d1c-a0c3-41b1e95322aa")]
 
     public partial interface IInformationRecipient : IHL73Object, ICDAObject, ICDAElement
@@ -43805,7 +43805,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The InformationRecipient class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IInformationRecipient))]
     [Guid("953536bd-acb9-48c3-8adb-c0c70722a8da")]
@@ -44002,7 +44002,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IInformationRecipientCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("5a634a90-88ce-49f9-ab08-6450a4b525eb")]
     public partial interface IInformationRecipientCollection : ICDACollection, IEnumerable<IInformationRecipient>
@@ -44075,7 +44075,7 @@ namespace HL7SDK.Cda
         IInformationRecipient Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("4a4657a4-125b-4b9e-8f57-ad43da8df2fd")]
     internal partial class InformationRecipientCollection : CDAFactoryCollection<HL7SDK.Cda.InformationRecipient, HL7SDK.Xml.Cda.POCD_MT000040InformationRecipient, HL7SDK.Cda.IInformationRecipient>, HL7SDK.Cda.IInformationRecipientCollection
     {
@@ -44094,7 +44094,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IInfrastructureRoottypeIdCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("02b60edf-afb5-4f9f-9f30-1a09af03ae55")]
 
     public partial interface IInfrastructureRoottypeId : IHL73Object, ICDAObject, III
@@ -44195,7 +44195,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The InfrastructureRoottypeId class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IInfrastructureRoottypeId))]
     [Guid("6e2a9787-a11f-4072-82e4-669287368fa0")]
@@ -44260,7 +44260,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IInFulfillmentOfCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("dc1e02fc-554f-40bc-a539-47bb906db7ba")]
 
     public partial interface IInFulfillmentOf : IHL73Object, ICDAObject, ICDAElement
@@ -44368,7 +44368,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The InFulfillmentOf class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IInFulfillmentOf))]
     [Guid("2245d1b6-5ca0-4d0b-8b7c-a14c0a7537f2")]
@@ -44581,7 +44581,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IInFulfillmentOfCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("b79ea58e-a5d2-4fd8-9472-a8d43b98f100")]
     public partial interface IInFulfillmentOfCollection : ICDACollection, IEnumerable<IInFulfillmentOf>
@@ -44654,7 +44654,7 @@ namespace HL7SDK.Cda
         IInFulfillmentOf Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("1acdc7b0-1729-44cd-ae28-0fd140f430b6")]
     internal partial class InFulfillmentOfCollection : CDAFactoryCollection<HL7SDK.Cda.InFulfillmentOf, HL7SDK.Xml.Cda.POCD_MT000040InFulfillmentOf, HL7SDK.Cda.IInFulfillmentOf>, HL7SDK.Cda.IInFulfillmentOfCollection
     {
@@ -44673,7 +44673,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IIntendedRecipientCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("3842200f-424d-44fe-b4be-7467a469c739")]
 
     public partial interface IIntendedRecipient : IHL73Object, ICDAObject, ICDAElement
@@ -44805,7 +44805,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IntendedRecipient class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IIntendedRecipient))]
     [Guid("ef0441ed-0b63-4d8e-a33c-a7c266a38703")]
@@ -45075,7 +45075,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IIntendedRecipientCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("8a5bf498-766a-4756-9a0b-001c726d5840")]
     public partial interface IIntendedRecipientCollection : ICDACollection, IEnumerable<IIntendedRecipient>
@@ -45148,7 +45148,7 @@ namespace HL7SDK.Cda
         IIntendedRecipient Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("4163f3c1-40e2-47eb-85f7-cadbf0979bca")]
     internal partial class IntendedRecipientCollection : CDAFactoryCollection<HL7SDK.Cda.IntendedRecipient, HL7SDK.Xml.Cda.POCD_MT000040IntendedRecipient, HL7SDK.Cda.IIntendedRecipient>, HL7SDK.Cda.IIntendedRecipientCollection
     {
@@ -45167,7 +45167,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ILabeledDrugCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("bd2cc626-d56c-4e21-9cc6-f07b1369942f")]
 
     public partial interface ILabeledDrug : IHL73Object, ICDAObject, ICDAElement
@@ -45293,7 +45293,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The LabeledDrug class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ILabeledDrug))]
     [Guid("94028944-bbce-4e85-b969-83491d33b407")]
@@ -45561,7 +45561,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ILabeledDrugCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("dfc7fd3c-01b5-4212-8955-76a594a9948d")]
     public partial interface ILabeledDrugCollection : ICDACollection, IEnumerable<ILabeledDrug>
@@ -45634,7 +45634,7 @@ namespace HL7SDK.Cda
         ILabeledDrug Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("9c3b1c2d-4c11-48ad-8a3f-5afc367ca769")]
     internal partial class LabeledDrugCollection : CDAFactoryCollection<HL7SDK.Cda.LabeledDrug, HL7SDK.Xml.Cda.POCD_MT000040LabeledDrug, HL7SDK.Cda.ILabeledDrug>, HL7SDK.Cda.ILabeledDrugCollection
     {
@@ -45653,7 +45653,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ILanguageCommunicationCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("b778feb7-e1cd-42ae-9764-2561f2c26871")]
 
     public partial interface ILanguageCommunication : IHL73Object, ICDAObject, ICDAElement
@@ -45770,7 +45770,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The LanguageCommunication class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ILanguageCommunication))]
     [Guid("600ec21a-dfb9-445d-a0d8-b5bc3deeab82")]
@@ -46072,7 +46072,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ILanguageCommunicationCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("4524d5af-cf7e-4be5-98df-e708387cd1f2")]
     public partial interface ILanguageCommunicationCollection : ICDACollection, IEnumerable<ILanguageCommunication>
@@ -46145,7 +46145,7 @@ namespace HL7SDK.Cda
         ILanguageCommunication Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("6ae0572b-4d16-4ccb-a71e-2cef706d02b1")]
     internal partial class LanguageCommunicationCollection : CDAFactoryCollection<HL7SDK.Cda.LanguageCommunication, HL7SDK.Xml.Cda.POCD_MT000040LanguageCommunication, HL7SDK.Cda.ILanguageCommunication>, HL7SDK.Cda.ILanguageCommunicationCollection
     {
@@ -46164,7 +46164,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ILegalAuthenticatorCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("8b4f62b0-0aea-4886-8c21-0e6d0d1c3ffa")]
 
     public partial interface ILegalAuthenticator : IHL73Object, ICDAObject, ICDAElement
@@ -46290,7 +46290,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The LegalAuthenticator class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ILegalAuthenticator))]
     [Guid("b45fea6d-a464-48cd-9a36-5ba20ae14b6e")]
@@ -46582,7 +46582,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ILegalAuthenticatorCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("5c6261c8-515b-4ddf-8f00-86b84214d228")]
     public partial interface ILegalAuthenticatorCollection : ICDACollection, IEnumerable<ILegalAuthenticator>
@@ -46655,7 +46655,7 @@ namespace HL7SDK.Cda
         ILegalAuthenticator Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("26cbcb29-f714-4880-963e-9809f7f19758")]
     internal partial class LegalAuthenticatorCollection : CDAFactoryCollection<HL7SDK.Cda.LegalAuthenticator, HL7SDK.Xml.Cda.POCD_MT000040LegalAuthenticator, HL7SDK.Cda.ILegalAuthenticator>, HL7SDK.Cda.ILegalAuthenticatorCollection
     {
@@ -46674,7 +46674,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ILocationCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("85a67e76-a7f8-4de3-9032-351d1d865aac")]
 
     public partial interface ILocation : IHL73Object, ICDAObject, ICDAElement
@@ -46782,7 +46782,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Location class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ILocation))]
     [Guid("7eb39e9b-31d1-4403-945d-aee3ec75cbed")]
@@ -46995,7 +46995,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ILocationCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("2d215bca-554f-47dd-a17a-4e5432eb87a2")]
     public partial interface ILocationCollection : ICDACollection, IEnumerable<ILocation>
@@ -47068,7 +47068,7 @@ namespace HL7SDK.Cda
         ILocation Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("5707ebe3-2af3-439e-a694-4bfa3109974b")]
     internal partial class LocationCollection : CDAFactoryCollection<HL7SDK.Cda.Location, HL7SDK.Xml.Cda.POCD_MT000040Location, HL7SDK.Cda.ILocation>, HL7SDK.Cda.ILocationCollection
     {
@@ -47087,7 +47087,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IMaintainedEntityCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("23c03499-ab15-46a4-901b-0a2b3d97d409")]
 
     public partial interface IMaintainedEntity : IHL73Object, ICDAObject, ICDAElement
@@ -47195,7 +47195,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The MaintainedEntity class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IMaintainedEntity))]
     [Guid("5874fc11-80d8-4326-bd52-8d6a7d4ce888")]
@@ -47432,7 +47432,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IMaintainedEntityCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("0bb34925-9ff0-4e68-a6b7-e9a7b9242099")]
     public partial interface IMaintainedEntityCollection : ICDACollection, IEnumerable<IMaintainedEntity>
@@ -47505,7 +47505,7 @@ namespace HL7SDK.Cda
         IMaintainedEntity Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("0c5ad580-c5f3-4908-8e20-ecc536902836")]
     internal partial class MaintainedEntityCollection : CDAFactoryCollection<HL7SDK.Cda.MaintainedEntity, HL7SDK.Xml.Cda.POCD_MT000040MaintainedEntity, HL7SDK.Cda.IMaintainedEntity>, HL7SDK.Cda.IMaintainedEntityCollection
     {
@@ -47524,7 +47524,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IManufacturedProductCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("a09d4675-471f-42bc-8726-083964064982")]
 
     public partial interface IManufacturedProduct : IHL73Object, ICDAObject, ICDAElement
@@ -47663,7 +47663,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ManufacturedProduct class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IManufacturedProduct))]
     [Guid("69730b32-369e-4c05-83bf-fbc7269c0854")]
@@ -48040,7 +48040,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IManufacturedProductCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("d041a595-cd12-4249-bf08-74cddb08d26f")]
     public partial interface IManufacturedProductCollection : ICDACollection, IEnumerable<IManufacturedProduct>
@@ -48113,7 +48113,7 @@ namespace HL7SDK.Cda
         IManufacturedProduct Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("b854253f-b1d9-46be-84df-d0db9a4c2939")]
     internal partial class ManufacturedProductCollection : CDAFactoryCollection<HL7SDK.Cda.ManufacturedProduct, HL7SDK.Xml.Cda.POCD_MT000040ManufacturedProduct, HL7SDK.Cda.IManufacturedProduct>, HL7SDK.Cda.IManufacturedProductCollection
     {
@@ -48132,7 +48132,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IMaterialCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("5b0c2d84-18b4-46fa-939c-57c3ac67e9cf")]
 
     public partial interface IMaterial : IHL73Object, ICDAObject, ICDAElement
@@ -48267,7 +48267,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Material class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IMaterial))]
     [Guid("8e22a68f-c058-4e1f-90a2-da43466d76a0")]
@@ -48575,7 +48575,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IMaterialCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("39a5953f-58b4-42d5-8a0e-0383353d2c98")]
     public partial interface IMaterialCollection : ICDACollection, IEnumerable<IMaterial>
@@ -48648,7 +48648,7 @@ namespace HL7SDK.Cda
         IMaterial Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("cbbcb74c-6984-4eb6-9f86-2b3a33043da0")]
     internal partial class MaterialCollection : CDAFactoryCollection<HL7SDK.Cda.Material, HL7SDK.Xml.Cda.POCD_MT000040Material, HL7SDK.Cda.IMaterial>, HL7SDK.Cda.IMaterialCollection
     {
@@ -48667,7 +48667,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The INonXMLBodyCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("9e115a53-c46c-4663-8ae7-d41ccf28dc36")]
 
     public partial interface INonXMLBody : IHL73Object, ICDAObject, ICDAElement
@@ -48793,7 +48793,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The NonXMLBody class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.INonXMLBody))]
     [Guid("3e2e2e15-de16-42f5-bed0-827318be5eed")]
@@ -49085,7 +49085,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IObservationCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("6a368bfe-d208-4d31-9e30-754f45aee158")]
 
     public partial interface IObservation : IHL73Object, ICDAObject, ICDAElement
@@ -49395,7 +49395,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Observation class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IObservation))]
     [Guid("8310e288-ae08-405f-9a0a-4642a0f591e6")]
@@ -50111,7 +50111,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IObservationCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("426d0f7d-f5b0-4e5b-9b1d-db59357ffbcd")]
     public partial interface IObservationCollection : ICDACollection, IEnumerable<IObservation>
@@ -50184,7 +50184,7 @@ namespace HL7SDK.Cda
         IObservation Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("1eb60437-02d1-4438-9576-5e121d765000")]
     internal partial class ObservationCollection : CDAFactoryCollection<HL7SDK.Cda.Observation, HL7SDK.Xml.Cda.POCD_MT000040Observation, HL7SDK.Cda.IObservation>, HL7SDK.Cda.IObservationCollection
     {
@@ -50203,7 +50203,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IObservationMediaCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("02879129-2fd3-48cb-b29c-961dd0c1fbc3")]
 
     public partial interface IObservationMedia : IHL73Object, ICDAObject, ICDAElement
@@ -50410,7 +50410,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ObservationMedia class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IObservationMedia))]
     [Guid("fd0bc3f2-d3fc-479e-a9fc-6a33fea9abd2")]
@@ -50816,7 +50816,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IObservationMediaCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("93019e28-aa65-4591-800b-f5e39510264a")]
     public partial interface IObservationMediaCollection : ICDACollection, IEnumerable<IObservationMedia>
@@ -50889,7 +50889,7 @@ namespace HL7SDK.Cda
         IObservationMedia Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("021ec0d0-db58-4868-b35f-10e17ea55d54")]
     internal partial class ObservationMediaCollection : CDAFactoryCollection<HL7SDK.Cda.ObservationMedia, HL7SDK.Xml.Cda.POCD_MT000040ObservationMedia, HL7SDK.Cda.IObservationMedia>, HL7SDK.Cda.IObservationMediaCollection
     {
@@ -50908,7 +50908,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IObservationRangeCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("6e2a4598-2cd8-4d93-a079-4eb54cba45f8")]
 
     public partial interface IObservationRange : IHL73Object, ICDAObject, ICDAElement
@@ -51034,7 +51034,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ObservationRange class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IObservationRange))]
     [Guid("3591345e-ec3a-4707-8886-1629c094c970")]
@@ -51326,7 +51326,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IObservationRangeCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("a83930b1-0bad-4798-a600-4738c7a13dd1")]
     public partial interface IObservationRangeCollection : ICDACollection, IEnumerable<IObservationRange>
@@ -51399,7 +51399,7 @@ namespace HL7SDK.Cda
         IObservationRange Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("732253bc-8311-40df-beb3-aef553bbfef5")]
     internal partial class ObservationRangeCollection : CDAFactoryCollection<HL7SDK.Cda.ObservationRange, HL7SDK.Xml.Cda.POCD_MT000040ObservationRange, HL7SDK.Cda.IObservationRange>, HL7SDK.Cda.IObservationRangeCollection
     {
@@ -51418,7 +51418,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IOrderCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("986f5045-aba9-4418-b2e1-2b229468dd87")]
 
     public partial interface IOrder : IHL73Object, ICDAObject, ICDAElement
@@ -51543,7 +51543,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Order class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IOrder))]
     [Guid("afefc770-eea3-427a-9afb-62a8ba44d4d4")]
@@ -51806,7 +51806,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IOrderCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("1b791f50-4119-4877-909e-2731b7f61ee7")]
     public partial interface IOrderCollection : ICDACollection, IEnumerable<IOrder>
@@ -51879,7 +51879,7 @@ namespace HL7SDK.Cda
         IOrder Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("1c3e3b2c-f95c-460e-b48c-42fa16dee2e1")]
     internal partial class OrderCollection : CDAFactoryCollection<HL7SDK.Cda.Order, HL7SDK.Xml.Cda.POCD_MT000040Order, HL7SDK.Cda.IOrder>, HL7SDK.Cda.IOrderCollection
     {
@@ -51898,7 +51898,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IOrganizationCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("0de09288-6503-43b9-9bad-767f7acad058")]
 
     public partial interface IOrganization : IHL73Object, ICDAObject, ICDAElement
@@ -52047,7 +52047,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Organization class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IOrganization))]
     [Guid("d77da8bf-6dc1-4eae-b042-de6dcbfbab46")]
@@ -52343,7 +52343,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IOrganizationCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("e9fb57ac-2d31-4ddd-97fb-2632f402e1e7")]
     public partial interface IOrganizationCollection : ICDACollection, IEnumerable<IOrganization>
@@ -52416,7 +52416,7 @@ namespace HL7SDK.Cda
         IOrganization Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("7339a76a-bb48-47bf-a776-af8922c64248")]
     internal partial class OrganizationCollection : CDAFactoryCollection<HL7SDK.Cda.Organization, HL7SDK.Xml.Cda.POCD_MT000040Organization, HL7SDK.Cda.IOrganization>, HL7SDK.Cda.IOrganizationCollection
     {
@@ -52435,7 +52435,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IOrganizationPartOfCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("23ddb4a9-59be-43eb-94d3-c7229c6c933a")]
 
     public partial interface IOrganizationPartOf : IHL73Object, ICDAObject, ICDAElement
@@ -52569,7 +52569,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The OrganizationPartOf class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IOrganizationPartOf))]
     [Guid("24ed98fb-e346-47bd-9798-0606e67384e2")]
@@ -52897,7 +52897,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IOrganizationPartOfCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("24b884ff-123b-431e-9be8-b267de24d330")]
     public partial interface IOrganizationPartOfCollection : ICDACollection, IEnumerable<IOrganizationPartOf>
@@ -52970,7 +52970,7 @@ namespace HL7SDK.Cda
         IOrganizationPartOf Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("60d7ba4e-06dd-4458-9717-7858f98c08f0")]
     internal partial class OrganizationPartOfCollection : CDAFactoryCollection<HL7SDK.Cda.OrganizationPartOf, HL7SDK.Xml.Cda.POCD_MT000040OrganizationPartOf, HL7SDK.Cda.IOrganizationPartOf>, HL7SDK.Cda.IOrganizationPartOfCollection
     {
@@ -52989,7 +52989,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IOrganizerCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("47c29b3b-0eaa-407c-819e-abe83a0a9e40")]
 
     public partial interface IOrganizer : IHL73Object, ICDAObject, ICDAElement
@@ -53196,7 +53196,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Organizer class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IOrganizer))]
     [Guid("263349dd-25b1-431e-9c8c-575da708caba")]
@@ -53627,7 +53627,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IOrganizerCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("3b7519e3-5575-48a9-b6c6-c7e10036db5b")]
     public partial interface IOrganizerCollection : ICDACollection, IEnumerable<IOrganizer>
@@ -53700,7 +53700,7 @@ namespace HL7SDK.Cda
         IOrganizer Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("238daa3a-1635-4f6d-b3b5-9135903ca52d")]
     internal partial class OrganizerCollection : CDAFactoryCollection<HL7SDK.Cda.Organizer, HL7SDK.Xml.Cda.POCD_MT000040Organizer, HL7SDK.Cda.IOrganizer>, HL7SDK.Cda.IOrganizerCollection
     {
@@ -53719,7 +53719,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IParentDocumentCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("4b2031c5-8ca6-4e95-ad69-9a9ce78c4256")]
 
     public partial interface IParentDocument : IHL73Object, ICDAObject, ICDAElement
@@ -53871,7 +53871,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ParentDocument class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IParentDocument))]
     [Guid("7ccb25cf-4f4b-4189-8b1a-236b01e17f2f")]
@@ -54230,7 +54230,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IParentDocumentCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("66b4360a-c86c-4d81-a1d8-4661137b6e87")]
     public partial interface IParentDocumentCollection : ICDACollection, IEnumerable<IParentDocument>
@@ -54303,7 +54303,7 @@ namespace HL7SDK.Cda
         IParentDocument Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("6f35e834-8b6a-470e-8919-4244475aa42c")]
     internal partial class ParentDocumentCollection : CDAFactoryCollection<HL7SDK.Cda.ParentDocument, HL7SDK.Xml.Cda.POCD_MT000040ParentDocument, HL7SDK.Cda.IParentDocument>, HL7SDK.Cda.IParentDocumentCollection
     {
@@ -54322,7 +54322,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IParticipant1Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("704d4b54-e2c0-42e5-ab2a-134eee03d378")]
 
     public partial interface IParticipant1 : IHL73Object, ICDAObject, ICDAElement
@@ -54448,7 +54448,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Participant1 class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IParticipant1))]
     [Guid("2cdd3f16-3383-4dfa-9044-0e14ca50faf4")]
@@ -54740,7 +54740,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IParticipant1Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("145ddc51-1e6a-444d-a4d6-8b8bfcf34694")]
     public partial interface IParticipant1Collection : ICDACollection, IEnumerable<IParticipant1>
@@ -54813,7 +54813,7 @@ namespace HL7SDK.Cda
         IParticipant1 Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("6bde54d0-4f26-4fee-ae43-f81983aa20fa")]
     internal partial class Participant1Collection : CDAFactoryCollection<HL7SDK.Cda.Participant1, HL7SDK.Xml.Cda.POCD_MT000040Participant1, HL7SDK.Cda.IParticipant1>, HL7SDK.Cda.IParticipant1Collection
     {
@@ -54832,7 +54832,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IParticipant2Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("569f3e2f-5c7f-4611-8ecb-de65592374dd")]
 
     public partial interface IParticipant2 : IHL73Object, ICDAObject, ICDAElement
@@ -54958,7 +54958,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Participant2 class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IParticipant2))]
     [Guid("f7c8778c-f0bd-4736-b2f9-c492f3a43059")]
@@ -55250,7 +55250,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IParticipant2Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("a4f6eff3-292c-4650-bfc2-5feab9c79e59")]
     public partial interface IParticipant2Collection : ICDACollection, IEnumerable<IParticipant2>
@@ -55323,7 +55323,7 @@ namespace HL7SDK.Cda
         IParticipant2 Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("8bf397de-132e-4dc9-bc1d-f998602698c7")]
     internal partial class Participant2Collection : CDAFactoryCollection<HL7SDK.Cda.Participant2, HL7SDK.Xml.Cda.POCD_MT000040Participant2, HL7SDK.Cda.IParticipant2>, HL7SDK.Cda.IParticipant2Collection
     {
@@ -55342,7 +55342,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IParticipantRoleCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("1f8765e7-7212-4f97-9cbd-5526842de8cb")]
 
     public partial interface IParticipantRole : IHL73Object, ICDAObject, ICDAElement
@@ -55497,7 +55497,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ParticipantRole class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IParticipantRole))]
     [Guid("78d2d87d-7ec7-474d-9623-c14c6c0a05c7")]
@@ -55920,7 +55920,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IParticipantRoleCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("f5c7e55f-14d1-4ead-ad54-988016dc8675")]
     public partial interface IParticipantRoleCollection : ICDACollection, IEnumerable<IParticipantRole>
@@ -55993,7 +55993,7 @@ namespace HL7SDK.Cda
         IParticipantRole Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("485861be-2bf6-49e5-b731-71f3b265c04c")]
     internal partial class ParticipantRoleCollection : CDAFactoryCollection<HL7SDK.Cda.ParticipantRole, HL7SDK.Xml.Cda.POCD_MT000040ParticipantRole, HL7SDK.Cda.IParticipantRole>, HL7SDK.Cda.IParticipantRoleCollection
     {
@@ -56012,7 +56012,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPatientCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("e726c47a-4c2a-4b61-82ac-05e88f65e7fa")]
 
     public partial interface IPatient : IHL73Object, ICDAObject, ICDAElement
@@ -56207,7 +56207,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Patient class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IPatient))]
     [Guid("bfedb5c9-5011-4a5b-95d5-3d42c9a37959")]
@@ -56732,7 +56732,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPatientCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("caa372d3-766a-4d49-9d7a-374e6feab9dd")]
     public partial interface IPatientCollection : ICDACollection, IEnumerable<IPatient>
@@ -56805,7 +56805,7 @@ namespace HL7SDK.Cda
         IPatient Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("afbffbd0-ccec-4a43-ae1e-bc724ec98ced")]
     internal partial class PatientCollection : CDAFactoryCollection<HL7SDK.Cda.Patient, HL7SDK.Xml.Cda.POCD_MT000040Patient, HL7SDK.Cda.IPatient>, HL7SDK.Cda.IPatientCollection
     {
@@ -56824,7 +56824,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPatientRoleCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("9bcbd3eb-01ab-46b8-9c22-9a5bedd42bd4")]
 
     public partial interface IPatientRole : IHL73Object, ICDAObject, ICDAElement
@@ -56956,7 +56956,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The PatientRole class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IPatientRole))]
     [Guid("c3604d43-993c-413c-8b97-7a3bfcd2dfcd")]
@@ -57226,7 +57226,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPatientRoleCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("4036cc45-3089-4668-b593-363e39b4e61e")]
     public partial interface IPatientRoleCollection : ICDACollection, IEnumerable<IPatientRole>
@@ -57299,7 +57299,7 @@ namespace HL7SDK.Cda
         IPatientRole Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("ff1238cf-cef5-44eb-b432-8c57aca4c94a")]
     internal partial class PatientRoleCollection : CDAFactoryCollection<HL7SDK.Cda.PatientRole, HL7SDK.Xml.Cda.POCD_MT000040PatientRole, HL7SDK.Cda.IPatientRole>, HL7SDK.Cda.IPatientRoleCollection
     {
@@ -57318,7 +57318,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPerformer1Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("e382c892-3a6d-407d-b6e2-72306cdffc1a")]
 
     public partial interface IPerformer1 : IHL73Object, ICDAObject, ICDAElement
@@ -57435,7 +57435,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Performer1 class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IPerformer1))]
     [Guid("8e44ada2-50a8-4031-b6cc-a117c90ba2e2")]
@@ -57712,7 +57712,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPerformer1Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("efbbfc92-45ea-483d-8fe4-356bcc485a18")]
     public partial interface IPerformer1Collection : ICDACollection, IEnumerable<IPerformer1>
@@ -57785,7 +57785,7 @@ namespace HL7SDK.Cda
         IPerformer1 Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("a236527e-2c23-49ff-8180-49da7dba0a33")]
     internal partial class Performer1Collection : CDAFactoryCollection<HL7SDK.Cda.Performer1, HL7SDK.Xml.Cda.POCD_MT000040Performer1, HL7SDK.Cda.IPerformer1>, HL7SDK.Cda.IPerformer1Collection
     {
@@ -57804,7 +57804,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPerformer2Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("c9eef4b1-5a0c-4081-b03d-ad5486d94fbd")]
 
     public partial interface IPerformer2 : IHL73Object, ICDAObject, ICDAElement
@@ -57930,7 +57930,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Performer2 class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IPerformer2))]
     [Guid("39d6ea1b-28f6-4bb1-b5a5-592f7df30c78")]
@@ -58223,7 +58223,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPerformer2Collection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("9d942c50-0886-4d95-9da5-f498b6320387")]
     public partial interface IPerformer2Collection : ICDACollection, IEnumerable<IPerformer2>
@@ -58296,7 +58296,7 @@ namespace HL7SDK.Cda
         IPerformer2 Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("ac769871-9dbe-48da-9669-49e59bafc17a")]
     internal partial class Performer2Collection : CDAFactoryCollection<HL7SDK.Cda.Performer2, HL7SDK.Xml.Cda.POCD_MT000040Performer2, HL7SDK.Cda.IPerformer2>, HL7SDK.Cda.IPerformer2Collection
     {
@@ -58315,7 +58315,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPersonCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("145636d3-fa0d-402c-942b-0986ad547c8f")]
 
     public partial interface IPerson : IHL73Object, ICDAObject, ICDAElement
@@ -58422,7 +58422,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Person class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IPerson))]
     [Guid("58bb9d22-eb89-4c19-9ac1-2879a929ce6e")]
@@ -58605,7 +58605,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPersonCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("d569b914-a6d7-4b37-a3bf-55456993d2c1")]
     public partial interface IPersonCollection : ICDACollection, IEnumerable<IPerson>
@@ -58678,7 +58678,7 @@ namespace HL7SDK.Cda
         IPerson Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("0212e65e-8f10-452a-9a8a-6fd2beb0116b")]
     internal partial class PersonCollection : CDAFactoryCollection<HL7SDK.Cda.Person, HL7SDK.Xml.Cda.POCD_MT000040Person, HL7SDK.Cda.IPerson>, HL7SDK.Cda.IPersonCollection
     {
@@ -58697,7 +58697,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPlaceCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("1468efd7-3378-4de0-8757-a879d126e7c3")]
 
     public partial interface IPlace : IHL73Object, ICDAObject, ICDAElement
@@ -58823,7 +58823,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Place class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IPlace))]
     [Guid("c6c40ed2-70ab-46f9-9ddc-86bf4dfa193b")]
@@ -59091,7 +59091,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPlaceCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("d86ebc4d-6552-4b21-970d-6e6f7e7f2439")]
     public partial interface IPlaceCollection : ICDACollection, IEnumerable<IPlace>
@@ -59164,7 +59164,7 @@ namespace HL7SDK.Cda
         IPlace Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("0eff4244-72fe-46c6-8bb9-128861f69030")]
     internal partial class PlaceCollection : CDAFactoryCollection<HL7SDK.Cda.Place, HL7SDK.Xml.Cda.POCD_MT000040Place, HL7SDK.Cda.IPlace>, HL7SDK.Cda.IPlaceCollection
     {
@@ -59183,7 +59183,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPlayingEntityCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("96254d6a-b419-4673-bfcc-c3bfa74a0b40")]
 
     public partial interface IPlayingEntity : IHL73Object, ICDAObject, ICDAElement
@@ -59316,7 +59316,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The PlayingEntity class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IPlayingEntity))]
     [Guid("68558281-7f7c-442e-8f62-50dd148ea4d4")]
@@ -59590,7 +59590,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPlayingEntityCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("a4fe9597-9216-4998-a303-545a84147320")]
     public partial interface IPlayingEntityCollection : ICDACollection, IEnumerable<IPlayingEntity>
@@ -59663,7 +59663,7 @@ namespace HL7SDK.Cda
         IPlayingEntity Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("8feda55b-782b-4873-9578-e954548e141d")]
     internal partial class PlayingEntityCollection : CDAFactoryCollection<HL7SDK.Cda.PlayingEntity, HL7SDK.Xml.Cda.POCD_MT000040PlayingEntity, HL7SDK.Cda.IPlayingEntity>, HL7SDK.Cda.IPlayingEntityCollection
     {
@@ -59682,7 +59682,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPreconditionCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("29d1ec37-1191-4de8-8629-ffec2395a7b7")]
 
     public partial interface IPrecondition : IHL73Object, ICDAObject, ICDAElement
@@ -59781,7 +59781,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Precondition class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IPrecondition))]
     [Guid("91d3b91f-6a6e-45b4-a1e8-118f2313d6af")]
@@ -59978,7 +59978,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPreconditionCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("114e1e6d-33d6-41c8-a75e-9df2b177e833")]
     public partial interface IPreconditionCollection : ICDACollection, IEnumerable<IPrecondition>
@@ -60051,7 +60051,7 @@ namespace HL7SDK.Cda
         IPrecondition Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("3eda9873-5b22-41a5-b989-da8555e59980")]
     internal partial class PreconditionCollection : CDAFactoryCollection<HL7SDK.Cda.Precondition, HL7SDK.Xml.Cda.POCD_MT000040Precondition, HL7SDK.Cda.IPrecondition>, HL7SDK.Cda.IPreconditionCollection
     {
@@ -60070,7 +60070,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IProcedureCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("57a1884d-a976-4f91-81d0-160e997994a6")]
 
     public partial interface IProcedure : IHL73Object, ICDAObject, ICDAElement
@@ -60346,7 +60346,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Procedure class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IProcedure))]
     [Guid("6cfa5138-79c1-4cb0-8920-2ee77a5485b3")]
@@ -60960,7 +60960,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IProcedureCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("e64daee5-156d-4ada-bea3-f2a72c1a63cd")]
     public partial interface IProcedureCollection : ICDACollection, IEnumerable<IProcedure>
@@ -61033,7 +61033,7 @@ namespace HL7SDK.Cda
         IProcedure Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("3d09c64e-f7b1-4214-b016-1e129ae62977")]
     internal partial class ProcedureCollection : CDAFactoryCollection<HL7SDK.Cda.Procedure, HL7SDK.Xml.Cda.POCD_MT000040Procedure, HL7SDK.Cda.IProcedure>, HL7SDK.Cda.IProcedureCollection
     {
@@ -61052,7 +61052,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IProductCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("73cf7e74-94a3-43bd-915a-90857c8a5b52")]
 
     public partial interface IProduct : IHL73Object, ICDAObject, ICDAElement
@@ -61151,7 +61151,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Product class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IProduct))]
     [Guid("412fe61c-bad2-49e4-827c-8fecf6671ec8")]
@@ -61348,7 +61348,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IProductCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("7955f594-ca44-4d98-8f40-af6d7f8d9d6e")]
     public partial interface IProductCollection : ICDACollection, IEnumerable<IProduct>
@@ -61421,7 +61421,7 @@ namespace HL7SDK.Cda
         IProduct Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("9c1c54d1-8b9c-44dc-8b3e-07ed05d95d33")]
     internal partial class ProductCollection : CDAFactoryCollection<HL7SDK.Cda.Product, HL7SDK.Xml.Cda.POCD_MT000040Product, HL7SDK.Cda.IProduct>, HL7SDK.Cda.IProductCollection
     {
@@ -61440,7 +61440,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IRecordTargetCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("a6c767c8-92c9-4329-9228-1cc29b02ba5d")]
 
     public partial interface IRecordTarget : IHL73Object, ICDAObject, ICDAElement
@@ -61548,7 +61548,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The RecordTarget class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IRecordTarget))]
     [Guid("a8df510c-084a-45ad-9743-1dd6df8916c7")]
@@ -61760,7 +61760,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IRecordTargetCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("cf4331bc-7f0b-45e4-af99-fb1b8551ae33")]
     public partial interface IRecordTargetCollection : ICDACollection, IEnumerable<IRecordTarget>
@@ -61833,7 +61833,7 @@ namespace HL7SDK.Cda
         IRecordTarget Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("7396c054-0dad-42a0-82eb-2f810ee73384")]
     internal partial class RecordTargetCollection : CDAFactoryCollection<HL7SDK.Cda.RecordTarget, HL7SDK.Xml.Cda.POCD_MT000040RecordTarget, HL7SDK.Cda.IRecordTarget>, HL7SDK.Cda.IRecordTargetCollection
     {
@@ -61852,7 +61852,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IReferenceCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("d9df6a1e-178f-4533-a1a9-31a7417d1132")]
 
     public partial interface IReference : IHL73Object, ICDAObject, ICDAElement
@@ -61992,7 +61992,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Reference class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IReference))]
     [Guid("0d57308b-2f03-430b-acc8-f0724972aef8")]
@@ -62480,7 +62480,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IReferenceCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("9f5d4c8d-da71-4619-8007-ad77da704021")]
     public partial interface IReferenceCollection : ICDACollection, IEnumerable<IReference>
@@ -62553,7 +62553,7 @@ namespace HL7SDK.Cda
         IReference Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("6e7bda34-d745-44a2-b743-1439f4776321")]
     internal partial class ReferenceCollection : CDAFactoryCollection<HL7SDK.Cda.Reference, HL7SDK.Xml.Cda.POCD_MT000040Reference, HL7SDK.Cda.IReference>, HL7SDK.Cda.IReferenceCollection
     {
@@ -62572,7 +62572,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IReferenceRangeCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("e30ecba6-188d-4447-a080-bd8f8118891b")]
 
     public partial interface IReferenceRange : IHL73Object, ICDAObject, ICDAElement
@@ -62671,7 +62671,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ReferenceRange class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IReferenceRange))]
     [Guid("be9e13c6-38cf-4852-965e-8d2eb2210b98")]
@@ -62868,7 +62868,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IReferenceRangeCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("c90d1cb4-d188-4268-a732-af73369c10b5")]
     public partial interface IReferenceRangeCollection : ICDACollection, IEnumerable<IReferenceRange>
@@ -62941,7 +62941,7 @@ namespace HL7SDK.Cda
         IReferenceRange Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("650c7e1a-e5de-4b33-b734-df7e82cf6a6f")]
     internal partial class ReferenceRangeCollection : CDAFactoryCollection<HL7SDK.Cda.ReferenceRange, HL7SDK.Xml.Cda.POCD_MT000040ReferenceRange, HL7SDK.Cda.IReferenceRange>, HL7SDK.Cda.IReferenceRangeCollection
     {
@@ -62960,7 +62960,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IRegionOfInterestCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("f67e8470-803e-4798-8a09-40cf2ab2e8fc")]
 
     public partial interface IRegionOfInterest : IHL73Object, ICDAObject, ICDAElement
@@ -63166,7 +63166,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The RegionOfInterest class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IRegionOfInterest))]
     [Guid("a983cfd4-b636-4d99-9c0c-8caa571c1906")]
@@ -63543,7 +63543,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IRegionOfInterestCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("5da86937-3ff8-400c-beb1-4773ddc9c33e")]
     public partial interface IRegionOfInterestCollection : ICDACollection, IEnumerable<IRegionOfInterest>
@@ -63616,7 +63616,7 @@ namespace HL7SDK.Cda
         IRegionOfInterest Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("a65f7a6a-66f0-4ee0-950d-a396027e9ca4")]
     internal partial class RegionOfInterestCollection : CDAFactoryCollection<HL7SDK.Cda.RegionOfInterest, HL7SDK.Xml.Cda.POCD_MT000040RegionOfInterest, HL7SDK.Cda.IRegionOfInterest>, HL7SDK.Cda.IRegionOfInterestCollection
     {
@@ -63635,7 +63635,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IRegionOfInterestvalueCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("08e82b71-55d5-44fc-866f-c38ad352d4b5")]
 
     public partial interface IRegionOfInterestvalue : IHL73Object, ICDAObject, IINT
@@ -63700,7 +63700,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The RegionOfInterestvalue class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IRegionOfInterestvalue))]
     [Guid("feef0563-4110-43a0-82b1-f81318eab44b")]
@@ -63780,7 +63780,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IRegionOfInterestvalueCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("cf2e0133-aece-406c-b78a-977acd557b74")]
     public partial interface IRegionOfInterestvalueCollection : ICDACollection, IEnumerable<IRegionOfInterestvalue>
@@ -63853,7 +63853,7 @@ namespace HL7SDK.Cda
         IRegionOfInterestvalue Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("46adb288-1a16-498d-89ea-5867da7772c3")]
     internal partial class RegionOfInterestvalueCollection : CDAFactoryCollection<HL7SDK.Cda.RegionOfInterestvalue, HL7SDK.Xml.Cda.POCD_MT000040RegionOfInterestvalue, HL7SDK.Cda.IRegionOfInterestvalue>, HL7SDK.Cda.IRegionOfInterestvalueCollection
     {
@@ -63872,7 +63872,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IRelatedDocumentCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("90c56c63-3a14-460f-8340-810e61066eab")]
 
     public partial interface IRelatedDocument : IHL73Object, ICDAObject, ICDAElement
@@ -63971,7 +63971,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The RelatedDocument class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IRelatedDocument))]
     [Guid("cc80cb46-40d3-44b9-9586-a77679ef171e")]
@@ -64168,7 +64168,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IRelatedDocumentCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("9f745d69-816e-49f8-8964-70e1ed71f00a")]
     public partial interface IRelatedDocumentCollection : ICDACollection, IEnumerable<IRelatedDocument>
@@ -64241,7 +64241,7 @@ namespace HL7SDK.Cda
         IRelatedDocument Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("700f9d1c-573f-461f-9ab0-fae5154902b8")]
     internal partial class RelatedDocumentCollection : CDAFactoryCollection<HL7SDK.Cda.RelatedDocument, HL7SDK.Xml.Cda.POCD_MT000040RelatedDocument, HL7SDK.Cda.IRelatedDocument>, HL7SDK.Cda.IRelatedDocumentCollection
     {
@@ -64260,7 +64260,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IRelatedEntityCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("ef3cf2b6-63d0-4635-80f6-a1903a6d3ec2")]
 
     public partial interface IRelatedEntity : IHL73Object, ICDAObject, ICDAElement
@@ -64393,7 +64393,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The RelatedEntity class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IRelatedEntity))]
     [Guid("8d91f1d3-0521-4b9d-af9a-a00fb5050058")]
@@ -64692,7 +64692,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IRelatedEntityCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("cdf3ab95-ef9d-4ab9-bbed-b3ae1e002104")]
     public partial interface IRelatedEntityCollection : ICDACollection, IEnumerable<IRelatedEntity>
@@ -64765,7 +64765,7 @@ namespace HL7SDK.Cda
         IRelatedEntity Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("6a40396b-3993-4b4b-9754-490904a9e71d")]
     internal partial class RelatedEntityCollection : CDAFactoryCollection<HL7SDK.Cda.RelatedEntity, HL7SDK.Xml.Cda.POCD_MT000040RelatedEntity, HL7SDK.Cda.IRelatedEntity>, HL7SDK.Cda.IRelatedEntityCollection
     {
@@ -64784,7 +64784,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IRelatedSubjectCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("75fca908-7f71-4542-a539-45bd569f617d")]
 
     public partial interface IRelatedSubject : IHL73Object, ICDAObject, ICDAElement
@@ -64908,7 +64908,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The RelatedSubject class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IRelatedSubject))]
     [Guid("b99837e1-fbe9-42dc-80ea-81b9a29265f0")]
@@ -65167,7 +65167,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IRelatedSubjectCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("9897142a-ca24-4611-9592-a50bdfc6e4fd")]
     public partial interface IRelatedSubjectCollection : ICDACollection, IEnumerable<IRelatedSubject>
@@ -65240,7 +65240,7 @@ namespace HL7SDK.Cda
         IRelatedSubject Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("a6a3cdd1-678d-491f-ba83-70b1e9b1bf61")]
     internal partial class RelatedSubjectCollection : CDAFactoryCollection<HL7SDK.Cda.RelatedSubject, HL7SDK.Xml.Cda.POCD_MT000040RelatedSubject, HL7SDK.Cda.IRelatedSubject>, HL7SDK.Cda.IRelatedSubjectCollection
     {
@@ -65259,7 +65259,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IResponsiblePartyCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("ea5ee6d0-9c7d-4680-9650-86a99d3ed801")]
 
     public partial interface IResponsibleParty : IHL73Object, ICDAObject, ICDAElement
@@ -65358,7 +65358,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ResponsibleParty class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IResponsibleParty))]
     [Guid("e3f63943-804b-4dd5-9493-b82a16220b46")]
@@ -65555,7 +65555,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IResponsiblePartyCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("b56c303a-ce9f-472b-98aa-bfb9bd0f3cb9")]
     public partial interface IResponsiblePartyCollection : ICDACollection, IEnumerable<IResponsibleParty>
@@ -65628,7 +65628,7 @@ namespace HL7SDK.Cda
         IResponsibleParty Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("cf4adb0d-1f31-4548-b248-f025d84f8853")]
     internal partial class ResponsiblePartyCollection : CDAFactoryCollection<HL7SDK.Cda.ResponsibleParty, HL7SDK.Xml.Cda.POCD_MT000040ResponsibleParty, HL7SDK.Cda.IResponsibleParty>, HL7SDK.Cda.IResponsiblePartyCollection
     {
@@ -65647,7 +65647,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISectionCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("61cc13de-d1a7-4930-b082-d4c79243c90a")]
 
     public partial interface ISection : IHL73Object, ICDAObject, ICDAElement
@@ -65850,7 +65850,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Section class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ISection))]
     [Guid("aa755944-f292-409a-bd15-c3cc8b2e2729")]
@@ -66361,7 +66361,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISectionCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("58176d8a-4c72-416b-b8e6-183611650097")]
     public partial interface ISectionCollection : ICDACollection, IEnumerable<ISection>
@@ -66434,7 +66434,7 @@ namespace HL7SDK.Cda
         ISection Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("c1990a8f-927e-4657-b877-f252464b24a5")]
     internal partial class SectionCollection : CDAFactoryCollection<HL7SDK.Cda.Section, HL7SDK.Xml.Cda.POCD_MT000040Section, HL7SDK.Cda.ISection>, HL7SDK.Cda.ISectionCollection
     {
@@ -66453,7 +66453,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IServiceEventCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("e7bb2c1c-c178-4890-9ff2-a9edb9a07241")]
 
     public partial interface IServiceEvent : IHL73Object, ICDAObject, ICDAElement
@@ -66586,7 +66586,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ServiceEvent class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IServiceEvent))]
     [Guid("3f0837ab-d9d5-4508-bed3-9ede54e2afe4")]
@@ -66860,7 +66860,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IServiceEventCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("8ade6af0-0a62-4d82-a0d5-c210ef0d36ad")]
     public partial interface IServiceEventCollection : ICDACollection, IEnumerable<IServiceEvent>
@@ -66933,7 +66933,7 @@ namespace HL7SDK.Cda
         IServiceEvent Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("f85230fc-cde9-42c6-bb70-9ef64a61a8be")]
     internal partial class ServiceEventCollection : CDAFactoryCollection<HL7SDK.Cda.ServiceEvent, HL7SDK.Xml.Cda.POCD_MT000040ServiceEvent, HL7SDK.Cda.IServiceEvent>, HL7SDK.Cda.IServiceEventCollection
     {
@@ -66952,7 +66952,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISpecimenCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("893681d7-2d87-4831-b0b8-5deb3f7f6b2f")]
 
     public partial interface ISpecimen : IHL73Object, ICDAObject, ICDAElement
@@ -67051,7 +67051,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Specimen class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ISpecimen))]
     [Guid("ddd64355-287e-4599-9eb8-bf240fd1d02f")]
@@ -67248,7 +67248,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISpecimenCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("01a8e112-7934-4459-85fc-8f53b30bba30")]
     public partial interface ISpecimenCollection : ICDACollection, IEnumerable<ISpecimen>
@@ -67321,7 +67321,7 @@ namespace HL7SDK.Cda
         ISpecimen Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("45b2779b-1b8c-4505-b102-cc2b40561c00")]
     internal partial class SpecimenCollection : CDAFactoryCollection<HL7SDK.Cda.Specimen, HL7SDK.Xml.Cda.POCD_MT000040Specimen, HL7SDK.Cda.ISpecimen>, HL7SDK.Cda.ISpecimenCollection
     {
@@ -67340,7 +67340,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISpecimenRoleCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("51dd8dd3-abda-44a9-acea-0cd75a7178ee")]
 
     public partial interface ISpecimenRole : IHL73Object, ICDAObject, ICDAElement
@@ -67456,7 +67456,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The SpecimenRole class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ISpecimenRole))]
     [Guid("f12253fe-5284-4371-ac26-593f24fd9cde")]
@@ -67680,7 +67680,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISpecimenRoleCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("092d92a4-6f57-4219-9b3a-f68d01efcb7a")]
     public partial interface ISpecimenRoleCollection : ICDACollection, IEnumerable<ISpecimenRole>
@@ -67753,7 +67753,7 @@ namespace HL7SDK.Cda
         ISpecimenRole Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("8dc7c6ca-d9a0-4106-b5e6-92ad000b88ca")]
     internal partial class SpecimenRoleCollection : CDAFactoryCollection<HL7SDK.Cda.SpecimenRole, HL7SDK.Xml.Cda.POCD_MT000040SpecimenRole, HL7SDK.Cda.ISpecimenRole>, HL7SDK.Cda.ISpecimenRoleCollection
     {
@@ -67772,7 +67772,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStructuredBodyCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("d522605a-c399-4707-83cb-b31daf716a0a")]
 
     public partial interface IStructuredBody : IHL73Object, ICDAObject, ICDAElement
@@ -67897,7 +67897,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StructuredBody class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStructuredBody))]
     [Guid("6144f8da-0587-4058-8252-b13bcb380649")]
@@ -68160,7 +68160,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStructuredBodyCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("774f56c5-b5ce-47bb-be7e-46f33126dec0")]
     public partial interface IStructuredBodyCollection : ICDACollection, IEnumerable<IStructuredBody>
@@ -68233,7 +68233,7 @@ namespace HL7SDK.Cda
         IStructuredBody Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("b593a71a-acae-4af0-9df8-c8332ce18d82")]
     internal partial class StructuredBodyCollection : CDAFactoryCollection<HL7SDK.Cda.StructuredBody, HL7SDK.Xml.Cda.POCD_MT000040StructuredBody, HL7SDK.Cda.IStructuredBody>, HL7SDK.Cda.IStructuredBodyCollection
     {
@@ -68252,7 +68252,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISubjectCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("3fb40adb-3ff1-40b1-8880-e69af51d1822")]
 
     public partial interface ISubject : IHL73Object, ICDAObject, ICDAElement
@@ -68378,7 +68378,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Subject class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ISubject))]
     [Guid("8cd5a7d5-ccdc-410c-80b8-3f02adb99a11")]
@@ -68646,7 +68646,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISubjectCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("35394049-e68e-4585-b313-c3d340c2ec01")]
     public partial interface ISubjectCollection : ICDACollection, IEnumerable<ISubject>
@@ -68719,7 +68719,7 @@ namespace HL7SDK.Cda
         ISubject Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("38417889-1eda-4054-9ab1-b42d0edc47a1")]
     internal partial class SubjectCollection : CDAFactoryCollection<HL7SDK.Cda.Subject, HL7SDK.Xml.Cda.POCD_MT000040Subject, HL7SDK.Cda.ISubject>, HL7SDK.Cda.ISubjectCollection
     {
@@ -68738,7 +68738,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISubjectPersonCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("58c14c92-7c84-4557-831e-c35e4fef547a")]
 
     public partial interface ISubjectPerson : IHL73Object, ICDAObject, ICDAElement
@@ -68863,7 +68863,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The SubjectPerson class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ISubjectPerson))]
     [Guid("c7e26e93-0eea-49b5-add5-ed7a13d55a5c")]
@@ -69126,7 +69126,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISubjectPersonCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("12ff10d0-c52d-4ab6-9547-3911af44f9c1")]
     public partial interface ISubjectPersonCollection : ICDACollection, IEnumerable<ISubjectPerson>
@@ -69199,7 +69199,7 @@ namespace HL7SDK.Cda
         ISubjectPerson Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("03ef6a21-e2b6-4893-96ca-620010553676")]
     internal partial class SubjectPersonCollection : CDAFactoryCollection<HL7SDK.Cda.SubjectPerson, HL7SDK.Xml.Cda.POCD_MT000040SubjectPerson, HL7SDK.Cda.ISubjectPerson>, HL7SDK.Cda.ISubjectPersonCollection
     {
@@ -69218,7 +69218,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISubstanceAdministrationCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("1693bfdc-917b-4c35-9881-a543020e40e4")]
 
     public partial interface ISubstanceAdministration : IHL73Object, ICDAObject, ICDAElement
@@ -69531,7 +69531,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The SubstanceAdministration class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ISubstanceAdministration))]
     [Guid("a92c2ab8-643e-4da2-8953-bc91552b5aec")]
@@ -70334,7 +70334,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISubstanceAdministrationCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("f5ab2f4f-fde9-491d-9acd-669c616584dd")]
     public partial interface ISubstanceAdministrationCollection : ICDACollection, IEnumerable<ISubstanceAdministration>
@@ -70407,7 +70407,7 @@ namespace HL7SDK.Cda
         ISubstanceAdministration Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("3612d307-916e-4417-8748-e3560cb3206b")]
     internal partial class SubstanceAdministrationCollection : CDAFactoryCollection<HL7SDK.Cda.SubstanceAdministration, HL7SDK.Xml.Cda.POCD_MT000040SubstanceAdministration, HL7SDK.Cda.ISubstanceAdministration>, HL7SDK.Cda.ISubstanceAdministrationCollection
     {
@@ -70426,7 +70426,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISupplyCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("eaf44aec-b7e0-4576-a68a-d83d9dd3081e")]
 
     public partial interface ISupply : IHL73Object, ICDAObject, ICDAElement
@@ -70694,7 +70694,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The Supply class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ISupply))]
     [Guid("db4c2a71-b425-4288-b91f-7180cede57c4")]
@@ -71347,7 +71347,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISupplyCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("d20289b7-084b-4f26-bc56-1813123d01b8")]
     public partial interface ISupplyCollection : ICDACollection, IEnumerable<ISupply>
@@ -71420,7 +71420,7 @@ namespace HL7SDK.Cda
         ISupply Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("fd138798-cc8d-40ab-977e-082acb1f9e51")]
     internal partial class SupplyCollection : CDAFactoryCollection<HL7SDK.Cda.Supply, HL7SDK.Xml.Cda.POCD_MT000040Supply, HL7SDK.Cda.ISupply>, HL7SDK.Cda.ISupplyCollection
     {
@@ -71439,7 +71439,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPPD_PQCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("849b4314-251f-4898-b41f-a38b0b83a57b")]
 
     public partial interface IPPD_PQ : IHL73Object, ICDAObject, IPQ
@@ -71539,7 +71539,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The PPD_PQ class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IPPD_PQ))]
     [Guid("a40e65a5-adbb-4e39-9a98-1ffe952e4d44")]
@@ -71675,7 +71675,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPPD_PQCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("db1f340c-2ff6-4a5b-b9ac-6a40b271539b")]
     public partial interface IPPD_PQCollection : ICDACollection, IEnumerable<IPPD_PQ>
@@ -71748,7 +71748,7 @@ namespace HL7SDK.Cda
         IPPD_PQ Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("bdb621fc-cabe-44f9-ad0b-a42e77db9083")]
     internal partial class PPD_PQCollection : CDAFactoryCollection<HL7SDK.Cda.PPD_PQ, HL7SDK.Xml.Cda.PPD_PQ, HL7SDK.Cda.IPPD_PQ>, HL7SDK.Cda.IPPD_PQCollection
     {
@@ -71767,7 +71767,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPPD_TSCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("fa929e40-3743-4db6-bd7e-ce73796eccfd")]
 
     public partial interface IPPD_TS : IHL73Object, ICDAObject, ITS
@@ -71859,7 +71859,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The PPD_TS class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IPPD_TS))]
     [Guid("c54ed57c-7bc6-466b-8d6d-b4d4b20198c8")]
@@ -71995,7 +71995,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPQCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("1e8f1f32-db29-4ee8-8908-f804ae0d1c0d")]
 
     public partial interface IPQ : IHL73Object, ICDAObject, IQTY
@@ -72068,7 +72068,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The PQ class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IPQ))]
     [Guid("eaf053e8-e223-48ee-9146-87e1cba85c66")]
@@ -72159,7 +72159,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPQCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("2089d31c-5074-4eb4-bb61-a7dbe14ba337")]
     public partial interface IPQCollection : ICDACollection, IEnumerable<IPQ>
@@ -72232,7 +72232,7 @@ namespace HL7SDK.Cda
         IPQ Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("a67bb8a3-6e76-48b7-915e-2299c513457a")]
     internal partial class PQCollection : CDAFactoryCollection<HL7SDK.Cda.PQ, HL7SDK.Xml.Cda.PQ, HL7SDK.Cda.IPQ>, HL7SDK.Cda.IPQCollection
     {
@@ -72251,7 +72251,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPQRCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("5d1b9f66-e439-45f8-8d73-596a7bb1cac4")]
 
     public partial interface IPQR : IHL73Object, ICDAObject, ICV
@@ -72377,7 +72377,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The PQR class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IPQR))]
     [Guid("4f41251b-dc07-4b58-82d8-4e42ccfa2c30")]
@@ -72442,7 +72442,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IPQRCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("8114b4d4-2924-46aa-a093-9792cb8a0236")]
     public partial interface IPQRCollection : ICDACollection, IEnumerable<IPQR>
@@ -72515,7 +72515,7 @@ namespace HL7SDK.Cda
         IPQR Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("daf6b447-3731-4ec0-9c9d-f4dc58ffd93a")]
     internal partial class PQRCollection : CDAFactoryCollection<HL7SDK.Cda.PQR, HL7SDK.Xml.Cda.PQR, HL7SDK.Cda.IPQR>, HL7SDK.Cda.IPQRCollection
     {
@@ -72534,7 +72534,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IQTYCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("56a003c9-f38c-4f7f-84ec-a3fc78fb01e7")]
 
     public partial interface IQTY : IHL73Object, ICDAObject, IANY
@@ -72590,7 +72590,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The QTY class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IQTY))]
     [Guid("f157df1c-416e-48f6-9812-c34ddfd98cb5")]
@@ -72640,7 +72640,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IQTYCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("ca94c2f0-0af1-4e2a-a2b8-c239bff87782")]
     public partial interface IQTYCollection : ICDACollection, IEnumerable<IQTY>
@@ -72707,7 +72707,7 @@ namespace HL7SDK.Cda
         new IEnumerator GetEnumerator();
     }
     
-    [ComVisible(true)]
+
     [Guid("b2c1d90c-00b1-415b-acc7-da3b049e7cae")]
     internal partial class QTYCollection : CDACollection<HL7SDK.Cda.QTY, HL7SDK.Xml.Cda.QTY, HL7SDK.Cda.IQTY>, HL7SDK.Cda.IQTYCollection
     {
@@ -72726,7 +72726,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IREALCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("d134c730-ed9d-4035-83f6-5bd47f277de5")]
 
     public partial interface IREAL : IHL73Object, ICDAObject, IQTY
@@ -72782,7 +72782,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The REAL class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IREAL))]
     [Guid("a0e3a6ad-46c9-41fe-af12-6494aed5cb44")]
@@ -72847,7 +72847,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IREALCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("04a8b261-7a38-4b79-b2b5-cf26d29f6e3d")]
     public partial interface IREALCollection : ICDACollection, IEnumerable<IREAL>
@@ -72920,7 +72920,7 @@ namespace HL7SDK.Cda
         IREAL Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("0bab4d23-0766-44a3-a8a9-29d7e7abbd5d")]
     internal partial class REALCollection : CDAFactoryCollection<HL7SDK.Cda.REAL, HL7SDK.Xml.Cda.REAL, HL7SDK.Cda.IREAL>, HL7SDK.Cda.IREALCollection
     {
@@ -72939,7 +72939,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IRTOCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("d68de9a1-8b48-46ef-ae85-d3f66ef78cbe")]
 
     public partial interface IRTO : IHL73Object, ICDAObject, IRTO_QTY_QTY
@@ -73013,7 +73013,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The RTO class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IRTO))]
     [Guid("782ba37e-9382-40f4-b16a-3c3c1fafc2c5")]
@@ -73078,7 +73078,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IRTO_MO_PQCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("03072080-5d6f-4899-9ff2-149db6a1ff5e")]
 
     public partial interface IRTO_MO_PQ : IHL73Object, ICDAObject, IQTY
@@ -73152,7 +73152,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The RTO_MO_PQ class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IRTO_MO_PQ))]
     [Guid("7abe87c2-117f-40ee-9375-57cd610f46cf")]
@@ -73297,7 +73297,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IRTO_PQ_PQCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("3ff26bc3-659e-48cc-a08a-69ee2d96d81b")]
 
     public partial interface IRTO_PQ_PQ : IHL73Object, ICDAObject, IQTY
@@ -73371,7 +73371,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The RTO_PQ_PQ class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IRTO_PQ_PQ))]
     [Guid("2f31493f-c264-4002-b2f9-3488288d2968")]
@@ -73516,7 +73516,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IRTO_QTY_QTYCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("78448aa5-065d-4154-81bb-28a82901480a")]
 
     public partial interface IRTO_QTY_QTY : IHL73Object, ICDAObject, IQTY
@@ -73572,7 +73572,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The RTO_QTY_QTY class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IRTO_QTY_QTY))]
     [Guid("fbe30c15-803a-4be3-b94e-697447765569")]
@@ -73637,7 +73637,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISCCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("5fd89585-0ef2-436d-a097-b1d7fd736ba0")]
 
     public partial interface ISC : IHL73Object, ICDAObject, IST
@@ -73819,7 +73819,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The SC class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ISC))]
     [Guid("e48176d5-6171-43cb-9398-2f94149c4a53")]
@@ -73959,7 +73959,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISLIST_PQCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("b84678cc-a27e-4e28-8dba-3817ce8e48e9")]
 
     public partial interface ISLIST_PQ : IHL73Object, ICDAObject, IANY
@@ -74042,7 +74042,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The SLIST_PQ class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ISLIST_PQ))]
     [Guid("6c5aa10f-c3b2-4fef-a3f6-00067e974964")]
@@ -74202,7 +74202,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISLIST_TSCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("04a40f49-4091-4c8e-9434-343aff6282d8")]
 
     public partial interface ISLIST_TS : IHL73Object, ICDAObject, IANY
@@ -74285,7 +74285,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The SLIST_TS class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ISLIST_TS))]
     [Guid("c262d94c-cedd-4f6f-a18c-8c1a3eb6a664")]
@@ -74445,7 +74445,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISTCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("c681f0ee-c1f5-439e-b310-b3042e4c806b")]
 
     public partial interface IST : IHL73Object, ICDAObject, IED
@@ -74582,7 +74582,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ST class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IST))]
     [Guid("3af782cd-a01d-4a26-8280-13a74d515f07")]
@@ -74647,7 +74647,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocBrCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("ff2da19f-e4e0-4bdd-90a2-6a2d8e5fc7fb")]
 
     public partial interface IStrucDocBr : IHL73Object, ICDAObject, IStrucDocElement
@@ -74694,7 +74694,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocBr class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocBr))]
     [Guid("83c8b0c5-3e9f-46a2-9dda-31a623034046")]
@@ -74759,7 +74759,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocCaptionCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("a61fee8c-3a0b-4d3e-91cf-10dc59c269a5")]
 
     public partial interface IStrucDocCaption : IHL73Object, ICDAObject, IStrucDocElement
@@ -74833,7 +74833,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocCaption class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocCaption))]
     [Guid("43689be5-448d-47fb-a54f-059f6ede8cc6")]
@@ -74943,7 +74943,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocColCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("41835dc4-6e8e-46fe-b759-becfcf6cc6a5")]
 
     public partial interface IStrucDocCol : IHL73Object, ICDAObject, IStrucDocElement
@@ -75089,7 +75089,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocCol class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocCol))]
     [Guid("5ab23a3f-26d7-4155-98bb-dc465c5c78db")]
@@ -75321,7 +75321,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocColCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("90e55ac2-bdbe-4fae-8ef3-14e77681c55c")]
     public partial interface IStrucDocColCollection : ICDACollection, IEnumerable<IStrucDocCol>
@@ -75394,7 +75394,7 @@ namespace HL7SDK.Cda
         IStrucDocCol Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("1279276b-4c47-441d-b844-d7b052e874e4")]
     internal partial class StrucDocColCollection : CDAFactoryCollection<HL7SDK.Cda.StrucDocCol, HL7SDK.Xml.Cda.StrucDocCol, HL7SDK.Cda.IStrucDocCol>, HL7SDK.Cda.IStrucDocColCollection
     {
@@ -75413,7 +75413,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocColgroupCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("75353ffc-4874-4f69-90b0-1a544dfbd162")]
 
     public partial interface IStrucDocColgroup : IHL73Object, ICDAObject, IStrucDocElement
@@ -75567,7 +75567,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocColgroup class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocColgroup))]
     [Guid("55930d52-70ab-4064-a3c7-6a6abd8091c8")]
@@ -75810,7 +75810,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocContentCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("b06dfdf1-9486-4cc6-88ec-310659c3e4aa")]
 
     public partial interface IStrucDocContent : IHL73Object, ICDAObject, IStrucDocElement
@@ -75902,7 +75902,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocContent class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocContent))]
     [Guid("4a619009-83a3-4ac1-b37c-ed2232daf388")]
@@ -76043,7 +76043,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocFootnoteCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("0a2c1e07-8266-4594-9cb2-c43738e9ccd2")]
 
     public partial interface IStrucDocFootnote : IHL73Object, ICDAObject, IStrucDocElement
@@ -76117,7 +76117,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocFootnote class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocFootnote))]
     [Guid("8033e6b4-f6c5-4147-bad2-9e7e2850b16d")]
@@ -76227,7 +76227,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocFootnoteRefCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("19955079-24be-416d-9e40-92f8efaf4c67")]
 
     public partial interface IStrucDocFootnoteRef : IHL73Object, ICDAObject, IStrucDocElement
@@ -76310,7 +76310,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocFootnoteRef class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocFootnoteRef))]
     [Guid("5edffbe4-fa8d-48e2-92f8-4400efeb211c")]
@@ -76435,7 +76435,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocItemCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("85cdc4dd-244c-46e9-819d-31f6a4e3c9c0")]
 
     public partial interface IStrucDocItem : IHL73Object, ICDAObject, IStrucDocElement
@@ -76518,7 +76518,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocItem class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocItem))]
     [Guid("f4a8c804-6a57-4025-bcfa-4c0ee448840b")]
@@ -76668,7 +76668,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocItemCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("e20ed65f-d404-4528-a9b3-2535570fc367")]
     public partial interface IStrucDocItemCollection : ICDACollection, IEnumerable<IStrucDocItem>
@@ -76741,7 +76741,7 @@ namespace HL7SDK.Cda
         IStrucDocItem Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("2573b750-a350-4f12-a950-30b557449ff4")]
     internal partial class StrucDocItemCollection : CDAFactoryCollection<HL7SDK.Cda.StrucDocItem, HL7SDK.Xml.Cda.StrucDocItem, HL7SDK.Cda.IStrucDocItem>, HL7SDK.Cda.IStrucDocItemCollection
     {
@@ -76760,7 +76760,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocLinkHtmlCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("05472e0b-011c-4afa-8422-4aefcde1220b")]
 
     public partial interface IStrucDocLinkHtml : IHL73Object, ICDAObject, IStrucDocElement
@@ -76879,7 +76879,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocLinkHtml class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocLinkHtml))]
     [Guid("924f8c41-2597-4aa4-81bd-bfe73592f894")]
@@ -77064,7 +77064,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocListCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("854d3b45-bded-4a0b-86cf-1ac735510b0a")]
 
     public partial interface IStrucDocList : IHL73Object, ICDAObject, IStrucDocElement
@@ -77164,7 +77164,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocList class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocList))]
     [Guid("f9b331b8-8ae8-40fa-8369-8f17010db177")]
@@ -77340,7 +77340,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocParagraphCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("10aa449d-f551-433a-a529-f381f1321607")]
 
     public partial interface IStrucDocParagraph : IHL73Object, ICDAObject, IStrucDocElement
@@ -77423,7 +77423,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocParagraph class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocParagraph))]
     [Guid("2a8ce15a-91d1-4f7f-9ed8-e5eba502b3a4")]
@@ -77573,7 +77573,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocRenderMultiMediaCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("a407d8ec-73c8-42de-91f2-c46a4d08c9a0")]
 
     public partial interface IStrucDocRenderMultiMedia : IHL73Object, ICDAObject, IStrucDocElement
@@ -77665,7 +77665,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocRenderMultiMedia class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocRenderMultiMedia))]
     [Guid("bb97e0b4-5d09-40e2-b4e0-d410201f2476")]
@@ -77830,7 +77830,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocSubCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("9be00c80-ffae-4b4d-8e36-99e556c9db6f")]
 
     public partial interface IStrucDocSub : IHL73Object, ICDAObject, IStrucDocElement
@@ -77886,7 +77886,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocSub class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocSub))]
     [Guid("d0525236-073a-4408-a62b-d88aed2bbb49")]
@@ -77967,7 +77967,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocSupCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("1886cd7c-228d-426c-9cfc-086eb93efd32")]
 
     public partial interface IStrucDocSup : IHL73Object, ICDAObject, IStrucDocElement
@@ -78023,7 +78023,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocSup class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocSup))]
     [Guid("8d457430-6e0e-47a5-bce3-9b85c54effa9")]
@@ -78104,7 +78104,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocTableCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("436fd049-662b-4642-a7c6-f12cf97ddb10")]
 
     public partial interface IStrucDocTable : IHL73Object, ICDAObject, IStrucDocElement
@@ -78294,7 +78294,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocTable class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocTable))]
     [Guid("ee7c3bfe-7029-45d8-a8f9-c8e2a1f05290")]
@@ -78672,7 +78672,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocTbodyCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("74152209-9a86-490c-b4ef-40cc50bbfbc6")]
 
     public partial interface IStrucDocTbody : IHL73Object, ICDAObject, IStrucDocElement
@@ -78808,7 +78808,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocTbody class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocTbody))]
     [Guid("06f32aa8-53f5-43c7-bb67-bd3679f4db25")]
@@ -79021,7 +79021,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocTbodyCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("ff47e9bd-1896-42b0-9a4e-38b5fa173c5c")]
     public partial interface IStrucDocTbodyCollection : ICDACollection, IEnumerable<IStrucDocTbody>
@@ -79094,7 +79094,7 @@ namespace HL7SDK.Cda
         IStrucDocTbody Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("bc0a6472-4e00-4a69-93a5-2c94a06da77c")]
     internal partial class StrucDocTbodyCollection : CDAFactoryCollection<HL7SDK.Cda.StrucDocTbody, HL7SDK.Xml.Cda.StrucDocTbody, HL7SDK.Cda.IStrucDocTbody>, HL7SDK.Cda.IStrucDocTbodyCollection
     {
@@ -79113,7 +79113,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocTdCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("5fa4347c-0847-4c08-9687-ac71d0989712")]
 
     public partial interface IStrucDocTd : IHL73Object, ICDAObject, IStrucDocElement
@@ -79304,7 +79304,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocTd class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocTd))]
     [Guid("fa143577-fb2e-4c97-a14e-d19ef33ee0d1")]
@@ -79612,7 +79612,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocTextCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("d56da0ca-0dc2-4502-8fd6-9ab2047210f6")]
 
     public partial interface IStrucDocText : IHL73Object, ICDAObject, IStrucDocElement
@@ -79695,7 +79695,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocText class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocText))]
     [Guid("acaa7e8b-1f2a-40f9-b41a-7fde2e24ef57")]
@@ -79820,7 +79820,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocTfootCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("b4d32505-2dd8-44a4-9fcd-547cd3a8dd54")]
 
     public partial interface IStrucDocTfoot : IHL73Object, ICDAObject, IStrucDocElement
@@ -79956,7 +79956,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocTfoot class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocTfoot))]
     [Guid("5bd5314b-b3c6-4747-b53a-0001f1307b14")]
@@ -80169,7 +80169,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocThCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("fbe0566c-904a-4a63-b262-ea8a36b5a5ad")]
 
     public partial interface IStrucDocTh : IHL73Object, ICDAObject, IStrucDocElement
@@ -80360,7 +80360,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocTh class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocTh))]
     [Guid("14180356-bc89-4e8a-888f-62f60d53e97f")]
@@ -80668,7 +80668,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocTheadCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("65be5fa8-4490-47bf-8794-9b6ed2454ae4")]
 
     public partial interface IStrucDocThead : IHL73Object, ICDAObject, IStrucDocElement
@@ -80804,7 +80804,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocThead class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocThead))]
     [Guid("50cc4f94-24f4-49cc-8656-f3c6d1296e01")]
@@ -81017,7 +81017,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocTrCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("38a9b32e-d5f7-46e6-9c94-434d5aed8006")]
 
     public partial interface IStrucDocTr : IHL73Object, ICDAObject, IStrucDocElement
@@ -81145,7 +81145,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The StrucDocTr class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IStrucDocTr))]
     [Guid("3ac717ef-3fd2-4836-a28f-a03d6701880e")]
@@ -81347,7 +81347,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IStrucDocTrCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("a2fce356-58ea-4f09-ae88-4e7e9e0c4bd5")]
     public partial interface IStrucDocTrCollection : ICDACollection, IEnumerable<IStrucDocTr>
@@ -81420,7 +81420,7 @@ namespace HL7SDK.Cda
         IStrucDocTr Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("bd68f42c-0d5f-4808-b792-442aaa4c5093")]
     internal partial class StrucDocTrCollection : CDAFactoryCollection<HL7SDK.Cda.StrucDocTr, HL7SDK.Xml.Cda.StrucDocTr, HL7SDK.Cda.IStrucDocTr>, HL7SDK.Cda.IStrucDocTrCollection
     {
@@ -81439,7 +81439,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISXCM_CDCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("305fe2bb-6677-4074-8441-c756287cf0ed")]
 
     public partial interface ISXCM_CD : IHL73Object, ICDAObject, ICD
@@ -81574,7 +81574,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The SXCM_CD class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ISXCM_CD))]
     [Guid("048c517f-3a2f-4809-988d-5ed30b34aa1e")]
@@ -81654,7 +81654,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISXCM_INTCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("b9fce32b-4ce3-42a3-8b5f-61037a32524f")]
 
     public partial interface ISXCM_INT : IHL73Object, ICDAObject, IINT
@@ -81719,7 +81719,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The SXCM_INT class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ISXCM_INT))]
     [Guid("390f9233-7684-4516-bb2a-21b41f52df29")]
@@ -81799,7 +81799,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISXCM_MOCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("25625122-1906-4a7e-a310-b15e23bf4865")]
 
     public partial interface ISXCM_MO : IHL73Object, ICDAObject, IMO
@@ -81873,7 +81873,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The SXCM_MO class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ISXCM_MO))]
     [Guid("62a55090-ca19-4af0-81c1-61081321b16d")]
@@ -81953,7 +81953,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISXCM_PPD_PQCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("4ff358db-f06d-4f96-b9dc-db23e83a64da")]
 
     public partial interface ISXCM_PPD_PQ : IHL73Object, ICDAObject, IPPD_PQ
@@ -82062,7 +82062,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The SXCM_PPD_PQ class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ISXCM_PPD_PQ))]
     [Guid("250fe0f8-247a-4d5e-827b-e62583b6a7c7")]
@@ -82142,7 +82142,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISXCM_PPD_TSCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("35dcabbc-4af5-4aed-8adf-3754ee5500ff")]
 
     public partial interface ISXCM_PPD_TS : IHL73Object, ICDAObject, IPPD_TS
@@ -82243,7 +82243,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The SXCM_PPD_TS class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ISXCM_PPD_TS))]
     [Guid("cc43360c-981b-4ffd-a15b-069f99b8c8a8")]
@@ -82323,7 +82323,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISXCM_PQCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("c2ac00d2-f97a-4436-b8de-3845bf25dfd2")]
 
     public partial interface ISXCM_PQ : IHL73Object, ICDAObject, IPQ
@@ -82405,7 +82405,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The SXCM_PQ class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ISXCM_PQ))]
     [Guid("d9503f76-f9ec-4efb-8969-5d28544351c0")]
@@ -82485,7 +82485,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISXCM_REALCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("98d9d429-d6a3-4319-8976-87e2d357e966")]
 
     public partial interface ISXCM_REAL : IHL73Object, ICDAObject, IREAL
@@ -82550,7 +82550,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The SXCM_REAL class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ISXCM_REAL))]
     [Guid("874e7f08-0e6c-4336-8e1e-63ddfd2189ec")]
@@ -82630,7 +82630,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISXCM_TSCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("b28ae557-bbd0-4c24-b9c6-6e30c376154d")]
 
     public partial interface ISXCM_TS : IHL73Object, ICDAObject, ITS
@@ -82704,7 +82704,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The SXCM_TS class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ISXCM_TS))]
     [Guid("db7f3545-6a92-4f2c-994c-d9ecce9e299a")]
@@ -82784,7 +82784,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISXCM_TSCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("f57d6c21-38ba-435d-8c77-420dd7204bd6")]
     public partial interface ISXCM_TSCollection : ICDACollection, IEnumerable<ISXCM_TS>
@@ -82857,7 +82857,7 @@ namespace HL7SDK.Cda
         ISXCM_TS Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("c011a919-59ef-4bdc-a0c0-7eb45d593ad5")]
     internal partial class SXCM_TSCollection : CDAFactoryCollection<HL7SDK.Cda.SXCM_TS, HL7SDK.Xml.Cda.SXCM_TS, HL7SDK.Cda.ISXCM_TS>, HL7SDK.Cda.ISXCM_TSCollection
     {
@@ -82876,7 +82876,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ISXPR_TSCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("a2f051e2-7d6c-4538-9ef0-f66e5402583a")]
 
     public partial interface ISXPR_TS : IHL73Object, ICDAObject, ISXCM_TS
@@ -82958,7 +82958,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The SXPR_TS class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ISXPR_TS))]
     [Guid("6dabaa29-577a-443a-904c-f311c0b9fd52")]
@@ -83034,7 +83034,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ITELCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("4a00a112-a28b-411e-82cf-09c5c480730a")]
 
     public partial interface ITEL : IHL73Object, ICDAObject, IURL
@@ -83116,7 +83116,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The TEL class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ITEL))]
     [Guid("5120049c-2bb5-4d6f-aee6-0c05887ceef4")]
@@ -83208,7 +83208,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ITELCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
 
     [Guid("430ff6eb-37da-4fd9-add5-121eec3b5700")]
     public partial interface ITELCollection : ICDACollection, IEnumerable<ITEL>
@@ -83281,7 +83281,7 @@ namespace HL7SDK.Cda
         ITEL Append();
     }
     
-    [ComVisible(true)]
+
     [Guid("8c1d583c-6f23-4c70-957d-980d12822070")]
     internal partial class TELCollection : CDAFactoryCollection<HL7SDK.Cda.TEL, HL7SDK.Xml.Cda.TEL, HL7SDK.Cda.ITEL>, HL7SDK.Cda.ITELCollection
     {
@@ -83300,7 +83300,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IthumbnailCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("ef53f294-9d23-4b15-9ae2-ab420dcf73f3")]
 
     public partial interface Ithumbnail : IHL73Object, ICDAObject, IED
@@ -83437,7 +83437,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The thumbnail class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.Ithumbnail))]
     [Guid("83044bec-37fd-4a4a-a3cf-e44179558869")]
@@ -83502,7 +83502,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ITNCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("ce67534f-36b9-4ca4-92c8-e1424fd673ce")]
 
     public partial interface ITN : IHL73Object, ICDAObject, IEN
@@ -83593,7 +83593,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The TN class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ITN))]
     [Guid("74195d21-bf0d-4c59-8f48-3d9e0f8d8e74")]
@@ -83658,7 +83658,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The ITSCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("5f289117-c660-4eaf-aefe-5fcfa8c420e4")]
 
     public partial interface ITS : IHL73Object, ICDAObject, IQTY
@@ -83723,7 +83723,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The TS class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.ITS))]
     [Guid("d96bdcb7-7a20-4487-9eab-f3a240f9320c")]
@@ -83803,7 +83803,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IURLCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("8748fc0c-2d9d-46c2-beb7-5d93382cf612")]
 
     public partial interface IURL : IHL73Object, ICDAObject, IANY
@@ -83868,7 +83868,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The URL class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IURL))]
     [Guid("d739887d-daed-4921-b826-196aea4be859")]
@@ -83933,7 +83933,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The IUVP_TSCollection interface.
     /// </summary>
-    [ComVisible(true)]
+
     [Guid("c11655d4-ae7d-4f34-b763-0ce7703073a3")]
 
     public partial interface IUVP_TS : IHL73Object, ICDAObject, ITS
@@ -84016,7 +84016,7 @@ namespace HL7SDK.Cda
     /// <summary>
     /// The UVP_TS class.
     /// </summary>
-    [ComVisible(true)]
+
     [ClassInterface(ClassInterfaceType.None)]
     [ComDefaultInterface(typeof(HL7SDK.Cda.IUVP_TS))]
     [Guid("77c5d215-b52e-4af6-8c52-c7dfd056cae2")]
